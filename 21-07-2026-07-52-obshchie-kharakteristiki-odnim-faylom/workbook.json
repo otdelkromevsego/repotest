@@ -1,0 +1,193 @@
+{
+  "format_version": "1.0",
+  "source_file": "21.07.2026_07.52_Общие характеристики одним файлом.xlsx",
+  "source_size_bytes": 61556,
+  "source_sha256": "171b9a99062a9eab37f3ced5f5a02037416a825a5a9dd70b106882cac739e688",
+  "source_type": "xlsx",
+  "generated_at_utc": "2026-07-31T06:14:29.610427+00:00",
+  "date_system": "1900",
+  "active_sheet_index_zero_based": 0,
+  "calculation_properties": {
+    "calcId": "0"
+  },
+  "defined_names": [
+    {
+      "name": "characteristic_15000000_0",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$D$3"
+    },
+    {
+      "name": "static_subject_0",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$E$3"
+    },
+    {
+      "name": "characteristic_14177446_0",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$F$3"
+    },
+    {
+      "name": "static_groupID_4",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$A$3"
+    },
+    {
+      "name": "static_vendorCode_0",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$B$3"
+    },
+    {
+      "name": "static_nmID_4",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$C$3"
+    },
+    {
+      "name": "characteristic_14177452_0",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$G$3"
+    },
+    {
+      "name": "static_photo_1",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$H$3"
+    },
+    {
+      "name": "static_video_1",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$I$3"
+    },
+    {
+      "name": "characteristic_204557_1",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$J$3"
+    },
+    {
+      "name": "characteristic_14177449_1",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$K$3"
+    },
+    {
+      "name": "characteristic_14177453_1",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$L$3"
+    },
+    {
+      "name": "characteristic_54337_0",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$M$3"
+    },
+    {
+      "name": "characteristic_14177456_0",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$N$3"
+    },
+    {
+      "name": "characteristic_88953_4",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$O$3"
+    },
+    {
+      "name": "characteristic_90846_4",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$P$3"
+    },
+    {
+      "name": "characteristic_90849_4",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$Q$3"
+    },
+    {
+      "name": "characteristic_90745_4",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$R$3"
+    },
+    {
+      "name": "characteristic_15000001_1",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$S$3"
+    },
+    {
+      "name": "static_label_1",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$T$3"
+    },
+    {
+      "name": "static_rating_4",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$U$3"
+    },
+    {
+      "name": "characteristic_15001405_1",
+      "local_sheet_id": null,
+      "hidden": false,
+      "text": "Товары!$V$3"
+    }
+  ],
+  "document_properties": {
+    "creator": "wrkiv",
+    "lastModifiedBy": "wrkivtsv@gmail.com",
+    "created": "2025-01-14T11:35:00Z",
+    "modified": "2025-01-14T11:35:00Z",
+    "application": {
+      "Application": "Microsoft Excel",
+      "DocSecurity": "0",
+      "ScaleCrop": "false",
+      "LinksUpToDate": "false",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0300"
+    }
+  },
+  "has_vba": false,
+  "vba_project_sha256": null,
+  "sheets": [
+    {
+      "index": 1,
+      "name": "Товары",
+      "state": "visible",
+      "dimension": "A1:Z1000",
+      "header_row": 3,
+      "nonempty_rows": 96,
+      "cells": 1853,
+      "formulas": 0,
+      "path": "sheets/01-tovary/sheet.meta.json"
+    },
+    {
+      "index": 2,
+      "name": "Инструкция",
+      "state": "visible",
+      "dimension": "A1:Z1000",
+      "header_row": 8,
+      "nonempty_rows": 220,
+      "cells": 5720,
+      "formulas": 0,
+      "path": "sheets/02-instruktsiya/sheet.meta.json"
+    }
+  ],
+  "limitations": [
+    "Cached formula results are read from the source file and are not recalculated during export.",
+    "Formatting is summarized; drawings, buttons and embedded objects are inventoried but not reconstructed in JSON.",
+    "The original XLSX/XLSM remains the authoritative file, especially for VBA, styles and interactive controls."
+  ]
+}
