@@ -1,0 +1,78 @@
+{
+  "format_version": "1.0",
+  "generated_at_utc": "2026-07-31T06:14:40.594357+00:00",
+  "generator": "scripts/export_office_to_repo_json.py",
+  "files": [
+    {
+      "source": "21.07.2026_07.52_Общие характеристики одним файлом.xlsx",
+      "slug": "21-07-2026-07-52-obshchie-kharakteristiki-odnim-faylom",
+      "type": "xlsx",
+      "sha256": "171b9a99062a9eab37f3ced5f5a02037416a825a5a9dd70b106882cac739e688",
+      "size_bytes": 61556,
+      "output": "21-07-2026-07-52-obshchie-kharakteristiki-odnim-faylom",
+      "sheets": 2,
+      "has_vba": false
+    },
+    {
+      "source": "30-7-2026 Воронка продаж по дням с 30-04-2026 по 30-07-2026(1).xlsx",
+      "slug": "30-7-2026-voronka-prodazh-po-dnyam-s-30-04-2026-po-30-07-2026-1",
+      "type": "xlsx",
+      "sha256": "4cc61e910844103e9b36ba37a32cf5945b72b15fd9f1b0fd3b30df870bc9f358",
+      "size_bytes": 870078,
+      "output": "30-7-2026-voronka-prodazh-po-dnyam-s-30-04-2026-po-30-07-2026-1",
+      "sheets": 4,
+      "has_vba": false
+    },
+    {
+      "source": "30-7-2026 История остатков с 30-04-2026 по 30-07-2026(1).xlsx",
+      "slug": "30-7-2026-istoriya-ostatkov-s-30-04-2026-po-30-07-2026-1",
+      "type": "xlsx",
+      "sha256": "b91f3bef8c5ad048f984c89f03b5551f8d226060d33786695c9301739eb435f5",
+      "size_bytes": 138171,
+      "output": "30-7-2026-istoriya-ostatkov-s-30-04-2026-po-30-07-2026-1",
+      "sheets": 4,
+      "has_vba": false
+    },
+    {
+      "source": "Еженедельный детализированный отчет №763911647_250006755 - 1(1).xlsx",
+      "slug": "ezhenedelnyy-detalizirovannyy-otchet-no763911647-250006755-1-1",
+      "type": "xlsx",
+      "sha256": "7aeafb007e9e4024340b48fbd7ff6b5db50eadf68ab7de48a273d95c414abf93",
+      "size_bytes": 1218793,
+      "output": "ezhenedelnyy-detalizirovannyy-otchet-no763911647-250006755-1-1",
+      "sheets": 1,
+      "has_vba": false
+    },
+    {
+      "source": "Инструкция_WB_Price_Optimizer_v11_Excel_2019(1).pdf",
+      "slug": "instruktsiya-wb-price-optimizer-v11-excel-2019-1",
+      "type": "pdf",
+      "sha256": "3b2a2ced86be49d953f6458fbfcd8b5175a3fee81f76993eba41e96806b56221",
+      "size_bytes": 829282,
+      "output": "instruktsiya-wb-price-optimizer-v11-excel-2019-1",
+      "pages": 23
+    },
+    {
+      "source": "Себестоимость_с_доставкой_до_склада(1).xlsx",
+      "slug": "sebestoimost-s-dostavkoy-do-sklada-1",
+      "type": "xlsx",
+      "sha256": "e803b295445460d40ec0f574becd66fe864ed61cf546d8940a4a437cdf91367d",
+      "size_bytes": 9998,
+      "output": "sebestoimost-s-dostavkoy-do-sklada-1",
+      "sheets": 1,
+      "has_vba": false
+    },
+    {
+      "source": "Универсальная_модель_цен_WB_Excel_2019_v11_исправлена_компиляция(1).xlsm",
+      "slug": "universalnaya-model-tsen-wb-excel-2019-v11-ispravlena-kompilyatsiya-1",
+      "type": "xlsm",
+      "sha256": "5bc429d74d30fc722b9434144e229d12000368ad694bd59fb6fd81e7ace31731",
+      "size_bytes": 2187447,
+      "output": "universalnaya-model-tsen-wb-excel-2019-v11-ispravlena-kompilyatsiya-1",
+      "sheets": 13,
+      "has_vba": true,
+      "vba_extraction_status": "ok",
+      "vba_modules": 10
+    }
+  ]
+}
