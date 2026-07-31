@@ -1,0 +1,76 @@
+{
+  "format_version": "1.0",
+  "source_file": "30-7-2026 История остатков с 30-04-2026 по 30-07-2026(1).xlsx",
+  "source_size_bytes": 138171,
+  "source_sha256": "b91f3bef8c5ad048f984c89f03b5551f8d226060d33786695c9301739eb435f5",
+  "source_type": "xlsx",
+  "generated_at_utc": "2026-07-31T06:14:32.103745+00:00",
+  "date_system": "1900",
+  "active_sheet_index_zero_based": 0,
+  "calculation_properties": {
+    "calcId": "122211"
+  },
+  "defined_names": [],
+  "document_properties": {
+    "creator": "xuri",
+    "created": "2006-09-16T00:00:00Z",
+    "modified": "2006-09-16T00:00:00Z",
+    "application": {
+      "TotalTime": "0",
+      "Application": "Go Excelize"
+    }
+  },
+  "has_vba": false,
+  "vba_project_sha256": null,
+  "sheets": [
+    {
+      "index": 1,
+      "name": "Общая информация",
+      "state": "visible",
+      "dimension": "A1",
+      "header_row": 2,
+      "nonempty_rows": 13,
+      "cells": 26,
+      "formulas": 0,
+      "path": "sheets/01-obshchaya-informatsiya/sheet.meta.json"
+    },
+    {
+      "index": 2,
+      "name": "Метрики",
+      "state": "visible",
+      "dimension": "A1",
+      "header_row": 3,
+      "nonempty_rows": 16,
+      "cells": 32,
+      "formulas": 0,
+      "path": "sheets/02-metriki/sheet.meta.json"
+    },
+    {
+      "index": 3,
+      "name": "Остатки по дням",
+      "state": "visible",
+      "dimension": "A1",
+      "header_row": 2,
+      "nonempty_rows": 295,
+      "cells": 29107,
+      "formulas": 0,
+      "path": "sheets/03-ostatki-po-dnyam/sheet.meta.json"
+    },
+    {
+      "index": 4,
+      "name": "Детальная информация",
+      "state": "visible",
+      "dimension": "A1",
+      "header_row": 2,
+      "nonempty_rows": 295,
+      "cells": 9409,
+      "formulas": 0,
+      "path": "sheets/04-detalnaya-informatsiya/sheet.meta.json"
+    }
+  ],
+  "limitations": [
+    "Cached formula results are read from the source file and are not recalculated during export.",
+    "Formatting is summarized; drawings, buttons and embedded objects are inventoried but not reconstructed in JSON.",
+    "The original XLSX/XLSM remains the authoritative file, especially for VBA, styles and interactive controls."
+  ]
+}

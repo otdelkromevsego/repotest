@@ -1,0 +1,186 @@
+{
+  "sheet_index": 4,
+  "sheet_name": "Промосервисы",
+  "sheet_state": "visible",
+  "sheet_id": "4",
+  "source_part": "xl/worksheets/sheet4.xml",
+  "dimension": "A1",
+  "merged_ranges": [
+    "A1:Q1"
+  ],
+  "columns": [
+    {
+      "min": 1,
+      "max": 17,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 2,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Артикул продавца",
+      "json_key": "Артикул продавца"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Артикул WB",
+      "json_key": "Артикул WB"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Название",
+      "json_key": "Название"
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Дата",
+      "json_key": "Дата"
+    },
+    {
+      "column": 5,
+      "letter": "E",
+      "source_header": "Заказали товаров, шт",
+      "json_key": "Заказали товаров, шт"
+    },
+    {
+      "column": 6,
+      "letter": "F",
+      "source_header": "Заказали с WB Клубом, шт",
+      "json_key": "Заказали с WB Клубом, шт"
+    },
+    {
+      "column": 7,
+      "letter": "G",
+      "source_header": "Выкупили с WB Клубом, шт",
+      "json_key": "Выкупили с WB Клубом, шт"
+    },
+    {
+      "column": 8,
+      "letter": "H",
+      "source_header": "Отменили с WB Клубом, шт",
+      "json_key": "Отменили с WB Клубом, шт"
+    },
+    {
+      "column": 9,
+      "letter": "I",
+      "source_header": "Заказали на сумму с WB Клубом, ₽",
+      "json_key": "Заказали на сумму с WB Клубом, ₽"
+    },
+    {
+      "column": 10,
+      "letter": "J",
+      "source_header": "Выкупили с WB Клубом на сумму, ₽",
+      "json_key": "Выкупили с WB Клубом на сумму, ₽"
+    },
+    {
+      "column": 11,
+      "letter": "K",
+      "source_header": "Отменили с WB Клубом на сумму, ₽",
+      "json_key": "Отменили с WB Клубом на сумму, ₽"
+    },
+    {
+      "column": 12,
+      "letter": "L",
+      "source_header": "Заказали юрлица, шт",
+      "json_key": "Заказали юрлица, шт"
+    },
+    {
+      "column": 13,
+      "letter": "M",
+      "source_header": "Выкупили юрлица, шт",
+      "json_key": "Выкупили юрлица, шт"
+    },
+    {
+      "column": 14,
+      "letter": "N",
+      "source_header": "Отменили юрлица, шт",
+      "json_key": "Отменили юрлица, шт"
+    },
+    {
+      "column": 15,
+      "letter": "O",
+      "source_header": "Заказали юрлица на сумму, ₽",
+      "json_key": "Заказали юрлица на сумму, ₽"
+    },
+    {
+      "column": 16,
+      "letter": "P",
+      "source_header": "Выкупили юрлица на сумму, ₽",
+      "json_key": "Выкупили юрлица на сумму, ₽"
+    },
+    {
+      "column": 17,
+      "letter": "Q",
+      "source_header": "Отменили юрлица на сумму, ₽",
+      "json_key": "Отменили юрлица на сумму, ₽"
+    }
+  ],
+  "preamble": [
+    {
+      "_row": 1,
+      "cells": {
+        "A": "Промосервисы"
+      }
+    }
+  ],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 7080,
+  "cell_count": 120344,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 2941,
+      "first_row": 3,
+      "last_row": 2943,
+      "bytes": 2450266,
+      "sha256": "9436b86a0c9e39728bacd9350b38b95647fbca768537c49aa01de2ca1f5c64de"
+    },
+    {
+      "file": "records.part-00002.jsonl",
+      "rows": 2941,
+      "first_row": 2944,
+      "last_row": 5884,
+      "bytes": 2431270,
+      "sha256": "a24996e5ca2372afcf9b70443300c0a38c6405d5ceda4c8fd3df5b30e947ae44"
+    },
+    {
+      "file": "records.part-00003.jsonl",
+      "rows": 1196,
+      "first_row": 5885,
+      "last_row": 7080,
+      "bytes": 989852,
+      "sha256": "3c83888fe0a2fe7a754938131f82f087da7b37a5db2c4a55bb33fbc816cfbf5f"
+    }
+  ],
+  "formula_parts": []
+}

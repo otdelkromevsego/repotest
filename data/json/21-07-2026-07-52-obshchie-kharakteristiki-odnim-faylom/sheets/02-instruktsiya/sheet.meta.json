@@ -1,0 +1,2028 @@
+{
+  "sheet_index": 2,
+  "sheet_name": "Инструкция",
+  "sheet_state": "visible",
+  "sheet_id": "2",
+  "source_part": "xl/worksheets/sheet2.xml",
+  "dimension": "A1:Z1000",
+  "merged_ranges": [
+    "A19:H19",
+    "A20:H20",
+    "A1:H1",
+    "A2:H2",
+    "A3:H3",
+    "A4:H4",
+    "A5:H5",
+    "A6:H6",
+    "A7:H7",
+    "A13:H13",
+    "A15:H15",
+    "A16:H16",
+    "A17:H17",
+    "A18:H18"
+  ],
+  "columns": [
+    {
+      "min": 1,
+      "max": 1,
+      "width": 16.5,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "width": 17.625,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "width": 14.375,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "width": 9.25,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "width": 8.375,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "width": 22.875,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 9,
+      "max": 24,
+      "width": 8.375,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 8,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Артикул продавца",
+      "json_key": "Артикул продавца"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Наименование",
+      "json_key": "Наименование"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Категория продавца",
+      "json_key": "Категория продавца"
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Рос. размер ",
+      "json_key": "Рос. размер"
+    },
+    {
+      "column": 5,
+      "letter": "E",
+      "source_header": null,
+      "json_key": "_col_E"
+    },
+    {
+      "column": 6,
+      "letter": "F",
+      "source_header": null,
+      "json_key": "_col_F"
+    },
+    {
+      "column": 7,
+      "letter": "G",
+      "source_header": null,
+      "json_key": "_col_G"
+    },
+    {
+      "column": 8,
+      "letter": "H",
+      "source_header": null,
+      "json_key": "_col_H"
+    },
+    {
+      "column": 9,
+      "letter": "I",
+      "source_header": null,
+      "json_key": "_col_I"
+    },
+    {
+      "column": 10,
+      "letter": "J",
+      "source_header": null,
+      "json_key": "_col_J"
+    },
+    {
+      "column": 11,
+      "letter": "K",
+      "source_header": null,
+      "json_key": "_col_K"
+    },
+    {
+      "column": 12,
+      "letter": "L",
+      "source_header": null,
+      "json_key": "_col_L"
+    },
+    {
+      "column": 13,
+      "letter": "M",
+      "source_header": null,
+      "json_key": "_col_M"
+    },
+    {
+      "column": 14,
+      "letter": "N",
+      "source_header": null,
+      "json_key": "_col_N"
+    },
+    {
+      "column": 15,
+      "letter": "O",
+      "source_header": null,
+      "json_key": "_col_O"
+    },
+    {
+      "column": 16,
+      "letter": "P",
+      "source_header": null,
+      "json_key": "_col_P"
+    },
+    {
+      "column": 17,
+      "letter": "Q",
+      "source_header": null,
+      "json_key": "_col_Q"
+    },
+    {
+      "column": 18,
+      "letter": "R",
+      "source_header": null,
+      "json_key": "_col_R"
+    },
+    {
+      "column": 19,
+      "letter": "S",
+      "source_header": null,
+      "json_key": "_col_S"
+    },
+    {
+      "column": 20,
+      "letter": "T",
+      "source_header": null,
+      "json_key": "_col_T"
+    },
+    {
+      "column": 21,
+      "letter": "U",
+      "source_header": null,
+      "json_key": "_col_U"
+    },
+    {
+      "column": 22,
+      "letter": "V",
+      "source_header": null,
+      "json_key": "_col_V"
+    },
+    {
+      "column": 23,
+      "letter": "W",
+      "source_header": null,
+      "json_key": "_col_W"
+    },
+    {
+      "column": 24,
+      "letter": "X",
+      "source_header": null,
+      "json_key": "_col_X"
+    },
+    {
+      "column": 25,
+      "letter": "Y",
+      "source_header": null,
+      "json_key": "_col_Y"
+    },
+    {
+      "column": 26,
+      "letter": "Z",
+      "source_header": null,
+      "json_key": "_col_Z"
+    }
+  ],
+  "preamble": [
+    {
+      "_row": 1,
+      "cells": {
+        "A": "Как работать с файлом",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null,
+        "O": null,
+        "P": null,
+        "Q": null,
+        "R": null,
+        "S": null,
+        "T": null,
+        "U": null,
+        "V": null,
+        "W": null,
+        "X": null,
+        "Y": null,
+        "Z": null
+      }
+    },
+    {
+      "_row": 2,
+      "cells": {
+        "A": "Скачивайте шаблоны в личном кабинете",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null,
+        "O": null,
+        "P": null,
+        "Q": null,
+        "R": null,
+        "S": null,
+        "T": null,
+        "U": null,
+        "V": null,
+        "W": null,
+        "X": null,
+        "Y": null,
+        "Z": null
+      }
+    },
+    {
+      "_row": 3,
+      "cells": {
+        "A": "Перед каждой загрузкой товаров скачивайте новый шаблон в личном кабинете. Мы регулярно обновляем шаблоны,  чтобы они были максимально точными и удобными. \nНе используйте старые шаблоны и файлы, полученные из других источников.",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null,
+        "O": null,
+        "P": null,
+        "Q": null,
+        "R": null,
+        "S": null,
+        "T": null,
+        "U": null,
+        "V": null,
+        "W": null,
+        "X": null,
+        "Y": null,
+        "Z": null
+      }
+    },
+    {
+      "_row": 4,
+      "cells": {
+        "A": "Не меняйте структуру файла",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null,
+        "O": null,
+        "P": null,
+        "Q": null,
+        "R": null,
+        "S": null,
+        "T": null,
+        "U": null,
+        "V": null,
+        "W": null,
+        "X": null,
+        "Y": null,
+        "Z": null
+      }
+    },
+    {
+      "_row": 5,
+      "cells": {
+        "A": "Не добавляйте и не удаляйте листы и столбцы. Не меняйте порядок столбцов и не скрывайте их.",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null,
+        "O": null,
+        "P": null,
+        "Q": null,
+        "R": null,
+        "S": null,
+        "T": null,
+        "U": null,
+        "V": null,
+        "W": null,
+        "X": null,
+        "Y": null,
+        "Z": null
+      }
+    },
+    {
+      "_row": 6,
+      "cells": {
+        "A": "Правильно заполняйте строки",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null,
+        "O": null,
+        "P": null,
+        "Q": null,
+        "R": null,
+        "S": null,
+        "T": null,
+        "U": null,
+        "V": null,
+        "W": null,
+        "X": null,
+        "Y": null,
+        "Z": null
+      }
+    },
+    {
+      "_row": 7,
+      "cells": {
+        "A": "Для каждого артикула используйте отдельную строку. Если товар имеет размерный ряд, каждая строка в таблице — отдельный размер. Например:",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null,
+        "O": null,
+        "P": null,
+        "Q": null,
+        "R": null,
+        "S": null,
+        "T": null,
+        "U": null,
+        "V": null,
+        "W": null,
+        "X": null,
+        "Y": null,
+        "Z": null
+      }
+    }
+  ],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 63.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 20.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 3,
+      "hidden": false,
+      "height": 53.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 4,
+      "hidden": false,
+      "height": 20.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 5,
+      "hidden": false,
+      "height": 33.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 6,
+      "hidden": false,
+      "height": 21.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 7,
+      "hidden": false,
+      "height": 30.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 8,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 9,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 10,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 11,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 12,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 13,
+      "hidden": false,
+      "height": 30.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 14,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 15,
+      "hidden": false,
+      "height": 20.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 16,
+      "hidden": false,
+      "height": 30.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 17,
+      "hidden": false,
+      "height": 20.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 18,
+      "hidden": false,
+      "height": 44.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 19,
+      "hidden": false,
+      "height": 20.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 20,
+      "hidden": false,
+      "height": 173.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 21,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 22,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 23,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 24,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 25,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 26,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 27,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 28,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 29,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 30,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 31,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 32,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 33,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 34,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 35,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 36,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 37,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 38,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 39,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 40,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 41,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 42,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 43,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 44,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 45,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 46,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 47,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 48,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 49,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 50,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 51,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 52,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 53,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 54,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 55,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 56,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 57,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 58,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 59,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 60,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 61,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 62,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 63,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 64,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 65,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 66,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 67,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 68,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 69,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 70,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 71,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 72,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 73,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 74,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 75,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 76,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 77,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 78,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 79,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 80,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 81,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 82,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 83,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 84,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 85,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 86,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 87,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 88,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 89,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 90,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 91,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 92,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 93,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 94,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 95,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 96,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 97,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 98,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 99,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 100,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 101,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 102,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 103,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 104,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 105,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 106,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 107,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 108,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 109,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 110,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 111,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 112,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 113,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 114,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 115,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 116,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 117,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 118,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 119,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 120,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 121,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 122,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 123,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 124,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 125,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 126,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 127,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 128,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 129,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 130,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 131,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 132,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 133,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 134,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 135,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 136,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 137,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 138,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 139,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 140,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 141,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 142,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 143,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 144,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 145,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 146,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 147,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 148,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 149,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 150,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 151,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 152,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 153,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 154,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 155,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 156,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 157,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 158,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 159,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 160,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 161,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 162,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 163,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 164,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 165,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 166,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 167,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 168,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 169,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 170,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 171,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 172,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 173,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 174,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 175,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 176,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 177,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 178,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 179,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 180,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 181,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 182,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 183,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 184,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 185,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 186,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 187,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 188,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 189,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 190,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 191,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 192,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 193,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 194,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 195,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 196,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 197,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 198,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 199,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 200,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 201,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 202,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 203,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 204,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 205,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 206,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 207,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 208,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 209,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 210,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 211,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 212,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 213,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 214,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 215,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 216,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 217,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 218,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 219,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 220,
+      "hidden": false,
+      "height": 16.5,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 220,
+  "cell_count": 5720,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 212,
+      "first_row": 9,
+      "last_row": 220,
+      "bytes": 99473,
+      "sha256": "403f2d783e90e0fef9dd25a0021bc008751ea61d81923993890166003613190d"
+    }
+  ],
+  "formula_parts": []
+}

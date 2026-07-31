@@ -1,0 +1,196 @@
+{
+  "sheet_index": 2,
+  "sheet_name": "Метрики",
+  "sheet_state": "visible",
+  "sheet_id": "2",
+  "source_part": "xl/worksheets/sheet2.xml",
+  "dimension": "A1",
+  "merged_ranges": [
+    "A1:B1",
+    "A2:B2"
+  ],
+  "columns": [
+    {
+      "min": 1,
+      "max": 1,
+      "width": 25.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "width": 75.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 3,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Остатки впервые зафиксированы на складе WB",
+      "json_key": "Остатки впервые зафиксированы на складе WB"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Дата, в которую впервые были зафиксированы остатки, разложенные на складе на конец дня. Учитываем все товары — даже те, которые попали на склад по причине возврата",
+      "json_key": "Дата, в которую впервые были зафиксированы остатки, разложенные на складе на конец дня. Учитываем все товары — даже те, которые попали на склад по причине возврата"
+    }
+  ],
+  "preamble": [
+    {
+      "_row": 1,
+      "cells": {
+        "A": "История остатков",
+        "B": null
+      }
+    },
+    {
+      "_row": 2,
+      "cells": {
+        "A": "Отчёт поможет сократить расходы и увеличить прибыль за счёт правильного управления остатками.",
+        "B": null
+      }
+    }
+  ],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 3,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 4,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 5,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 6,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 7,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 8,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 9,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 10,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 11,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 12,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 13,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 14,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 15,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 16,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 16,
+  "cell_count": 32,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 13,
+      "first_row": 4,
+      "last_row": 16,
+      "bytes": 9738,
+      "sha256": "d5b972ce58314de0660e2649b3234fb3d4466cf17d39145fac321e0b3c03e0c4"
+    }
+  ],
+  "formula_parts": []
+}

@@ -1,0 +1,1544 @@
+{
+  "sheet_index": 3,
+  "sheet_name": "Остатки по дням",
+  "sheet_state": "visible",
+  "sheet_id": "3",
+  "source_part": "xl/worksheets/sheet3.xml",
+  "dimension": "A1",
+  "merged_ranges": [
+    "A1:CU1"
+  ],
+  "columns": [
+    {
+      "min": 1,
+      "max": 1,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 7,
+      "max": 7,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 21,
+      "max": 21,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 22,
+      "max": 22,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 23,
+      "max": 23,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 24,
+      "max": 24,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 25,
+      "max": 25,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 26,
+      "max": 26,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 27,
+      "max": 27,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 31,
+      "max": 31,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 32,
+      "max": 32,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 33,
+      "max": 33,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 34,
+      "max": 34,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 35,
+      "max": 35,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 37,
+      "max": 37,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 38,
+      "max": 38,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 39,
+      "max": 39,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 40,
+      "max": 40,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 41,
+      "max": 41,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 42,
+      "max": 42,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 43,
+      "max": 43,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 44,
+      "max": 44,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 45,
+      "max": 45,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 46,
+      "max": 46,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 47,
+      "max": 47,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 48,
+      "max": 48,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 49,
+      "max": 49,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 50,
+      "max": 50,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 51,
+      "max": 51,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 52,
+      "max": 52,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 53,
+      "max": 53,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 54,
+      "max": 54,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 55,
+      "max": 55,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 56,
+      "max": 56,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 57,
+      "max": 57,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 58,
+      "max": 58,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 61,
+      "max": 61,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 62,
+      "max": 62,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 63,
+      "max": 63,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 64,
+      "max": 64,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 65,
+      "max": 65,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 66,
+      "max": 66,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 67,
+      "max": 67,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 68,
+      "max": 68,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 69,
+      "max": 69,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 70,
+      "max": 70,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 71,
+      "max": 71,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 72,
+      "max": 72,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 73,
+      "max": 73,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 74,
+      "max": 74,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 75,
+      "max": 75,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 76,
+      "max": 76,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 77,
+      "max": 77,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 78,
+      "max": 78,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 79,
+      "max": 79,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 80,
+      "max": 80,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 81,
+      "max": 81,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 82,
+      "max": 82,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 83,
+      "max": 83,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 84,
+      "max": 84,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 85,
+      "max": 85,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 86,
+      "max": 86,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 88,
+      "max": 88,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 89,
+      "max": 89,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 90,
+      "max": 90,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 91,
+      "max": 91,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 92,
+      "max": 92,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 93,
+      "max": 93,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 94,
+      "max": 94,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 95,
+      "max": 95,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 2,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Артикул продавца",
+      "json_key": "Артикул продавца"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Название",
+      "json_key": "Название"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Артикул WB",
+      "json_key": "Артикул WB"
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Предмет",
+      "json_key": "Предмет"
+    },
+    {
+      "column": 5,
+      "letter": "E",
+      "source_header": "Бренд",
+      "json_key": "Бренд"
+    },
+    {
+      "column": 6,
+      "letter": "F",
+      "source_header": "Размер",
+      "json_key": "Размер"
+    },
+    {
+      "column": 7,
+      "letter": "G",
+      "source_header": "Склад",
+      "json_key": "Склад"
+    },
+    {
+      "column": 8,
+      "letter": "H",
+      "source_header": "30.04.2026",
+      "json_key": "30.04.2026"
+    },
+    {
+      "column": 9,
+      "letter": "I",
+      "source_header": "01.05.2026",
+      "json_key": "01.05.2026"
+    },
+    {
+      "column": 10,
+      "letter": "J",
+      "source_header": "02.05.2026",
+      "json_key": "02.05.2026"
+    },
+    {
+      "column": 11,
+      "letter": "K",
+      "source_header": "03.05.2026",
+      "json_key": "03.05.2026"
+    },
+    {
+      "column": 12,
+      "letter": "L",
+      "source_header": "04.05.2026",
+      "json_key": "04.05.2026"
+    },
+    {
+      "column": 13,
+      "letter": "M",
+      "source_header": "05.05.2026",
+      "json_key": "05.05.2026"
+    },
+    {
+      "column": 14,
+      "letter": "N",
+      "source_header": "06.05.2026",
+      "json_key": "06.05.2026"
+    },
+    {
+      "column": 15,
+      "letter": "O",
+      "source_header": "07.05.2026",
+      "json_key": "07.05.2026"
+    },
+    {
+      "column": 16,
+      "letter": "P",
+      "source_header": "08.05.2026",
+      "json_key": "08.05.2026"
+    },
+    {
+      "column": 17,
+      "letter": "Q",
+      "source_header": "09.05.2026",
+      "json_key": "09.05.2026"
+    },
+    {
+      "column": 18,
+      "letter": "R",
+      "source_header": "10.05.2026",
+      "json_key": "10.05.2026"
+    },
+    {
+      "column": 19,
+      "letter": "S",
+      "source_header": "11.05.2026",
+      "json_key": "11.05.2026"
+    },
+    {
+      "column": 20,
+      "letter": "T",
+      "source_header": "12.05.2026",
+      "json_key": "12.05.2026"
+    },
+    {
+      "column": 21,
+      "letter": "U",
+      "source_header": "13.05.2026",
+      "json_key": "13.05.2026"
+    },
+    {
+      "column": 22,
+      "letter": "V",
+      "source_header": "14.05.2026",
+      "json_key": "14.05.2026"
+    },
+    {
+      "column": 23,
+      "letter": "W",
+      "source_header": "15.05.2026",
+      "json_key": "15.05.2026"
+    },
+    {
+      "column": 24,
+      "letter": "X",
+      "source_header": "16.05.2026",
+      "json_key": "16.05.2026"
+    },
+    {
+      "column": 25,
+      "letter": "Y",
+      "source_header": "17.05.2026",
+      "json_key": "17.05.2026"
+    },
+    {
+      "column": 26,
+      "letter": "Z",
+      "source_header": "18.05.2026",
+      "json_key": "18.05.2026"
+    },
+    {
+      "column": 27,
+      "letter": "AA",
+      "source_header": "19.05.2026",
+      "json_key": "19.05.2026"
+    },
+    {
+      "column": 28,
+      "letter": "AB",
+      "source_header": "20.05.2026",
+      "json_key": "20.05.2026"
+    },
+    {
+      "column": 29,
+      "letter": "AC",
+      "source_header": "21.05.2026",
+      "json_key": "21.05.2026"
+    },
+    {
+      "column": 30,
+      "letter": "AD",
+      "source_header": "22.05.2026",
+      "json_key": "22.05.2026"
+    },
+    {
+      "column": 31,
+      "letter": "AE",
+      "source_header": "23.05.2026",
+      "json_key": "23.05.2026"
+    },
+    {
+      "column": 32,
+      "letter": "AF",
+      "source_header": "24.05.2026",
+      "json_key": "24.05.2026"
+    },
+    {
+      "column": 33,
+      "letter": "AG",
+      "source_header": "25.05.2026",
+      "json_key": "25.05.2026"
+    },
+    {
+      "column": 34,
+      "letter": "AH",
+      "source_header": "26.05.2026",
+      "json_key": "26.05.2026"
+    },
+    {
+      "column": 35,
+      "letter": "AI",
+      "source_header": "27.05.2026",
+      "json_key": "27.05.2026"
+    },
+    {
+      "column": 36,
+      "letter": "AJ",
+      "source_header": "28.05.2026",
+      "json_key": "28.05.2026"
+    },
+    {
+      "column": 37,
+      "letter": "AK",
+      "source_header": "29.05.2026",
+      "json_key": "29.05.2026"
+    },
+    {
+      "column": 38,
+      "letter": "AL",
+      "source_header": "30.05.2026",
+      "json_key": "30.05.2026"
+    },
+    {
+      "column": 39,
+      "letter": "AM",
+      "source_header": "31.05.2026",
+      "json_key": "31.05.2026"
+    },
+    {
+      "column": 40,
+      "letter": "AN",
+      "source_header": "01.06.2026",
+      "json_key": "01.06.2026"
+    },
+    {
+      "column": 41,
+      "letter": "AO",
+      "source_header": "02.06.2026",
+      "json_key": "02.06.2026"
+    },
+    {
+      "column": 42,
+      "letter": "AP",
+      "source_header": "03.06.2026",
+      "json_key": "03.06.2026"
+    },
+    {
+      "column": 43,
+      "letter": "AQ",
+      "source_header": "04.06.2026",
+      "json_key": "04.06.2026"
+    },
+    {
+      "column": 44,
+      "letter": "AR",
+      "source_header": "05.06.2026",
+      "json_key": "05.06.2026"
+    },
+    {
+      "column": 45,
+      "letter": "AS",
+      "source_header": "06.06.2026",
+      "json_key": "06.06.2026"
+    },
+    {
+      "column": 46,
+      "letter": "AT",
+      "source_header": "07.06.2026",
+      "json_key": "07.06.2026"
+    },
+    {
+      "column": 47,
+      "letter": "AU",
+      "source_header": "08.06.2026",
+      "json_key": "08.06.2026"
+    },
+    {
+      "column": 48,
+      "letter": "AV",
+      "source_header": "09.06.2026",
+      "json_key": "09.06.2026"
+    },
+    {
+      "column": 49,
+      "letter": "AW",
+      "source_header": "10.06.2026",
+      "json_key": "10.06.2026"
+    },
+    {
+      "column": 50,
+      "letter": "AX",
+      "source_header": "11.06.2026",
+      "json_key": "11.06.2026"
+    },
+    {
+      "column": 51,
+      "letter": "AY",
+      "source_header": "12.06.2026",
+      "json_key": "12.06.2026"
+    },
+    {
+      "column": 52,
+      "letter": "AZ",
+      "source_header": "13.06.2026",
+      "json_key": "13.06.2026"
+    },
+    {
+      "column": 53,
+      "letter": "BA",
+      "source_header": "14.06.2026",
+      "json_key": "14.06.2026"
+    },
+    {
+      "column": 54,
+      "letter": "BB",
+      "source_header": "15.06.2026",
+      "json_key": "15.06.2026"
+    },
+    {
+      "column": 55,
+      "letter": "BC",
+      "source_header": "16.06.2026",
+      "json_key": "16.06.2026"
+    },
+    {
+      "column": 56,
+      "letter": "BD",
+      "source_header": "17.06.2026",
+      "json_key": "17.06.2026"
+    },
+    {
+      "column": 57,
+      "letter": "BE",
+      "source_header": "18.06.2026",
+      "json_key": "18.06.2026"
+    },
+    {
+      "column": 58,
+      "letter": "BF",
+      "source_header": "19.06.2026",
+      "json_key": "19.06.2026"
+    },
+    {
+      "column": 59,
+      "letter": "BG",
+      "source_header": "20.06.2026",
+      "json_key": "20.06.2026"
+    },
+    {
+      "column": 60,
+      "letter": "BH",
+      "source_header": "21.06.2026",
+      "json_key": "21.06.2026"
+    },
+    {
+      "column": 61,
+      "letter": "BI",
+      "source_header": "22.06.2026",
+      "json_key": "22.06.2026"
+    },
+    {
+      "column": 62,
+      "letter": "BJ",
+      "source_header": "23.06.2026",
+      "json_key": "23.06.2026"
+    },
+    {
+      "column": 63,
+      "letter": "BK",
+      "source_header": "24.06.2026",
+      "json_key": "24.06.2026"
+    },
+    {
+      "column": 64,
+      "letter": "BL",
+      "source_header": "25.06.2026",
+      "json_key": "25.06.2026"
+    },
+    {
+      "column": 65,
+      "letter": "BM",
+      "source_header": "26.06.2026",
+      "json_key": "26.06.2026"
+    },
+    {
+      "column": 66,
+      "letter": "BN",
+      "source_header": "27.06.2026",
+      "json_key": "27.06.2026"
+    },
+    {
+      "column": 67,
+      "letter": "BO",
+      "source_header": "28.06.2026",
+      "json_key": "28.06.2026"
+    },
+    {
+      "column": 68,
+      "letter": "BP",
+      "source_header": "29.06.2026",
+      "json_key": "29.06.2026"
+    },
+    {
+      "column": 69,
+      "letter": "BQ",
+      "source_header": "30.06.2026",
+      "json_key": "30.06.2026"
+    },
+    {
+      "column": 70,
+      "letter": "BR",
+      "source_header": "01.07.2026",
+      "json_key": "01.07.2026"
+    },
+    {
+      "column": 71,
+      "letter": "BS",
+      "source_header": "02.07.2026",
+      "json_key": "02.07.2026"
+    },
+    {
+      "column": 72,
+      "letter": "BT",
+      "source_header": "03.07.2026",
+      "json_key": "03.07.2026"
+    },
+    {
+      "column": 73,
+      "letter": "BU",
+      "source_header": "04.07.2026",
+      "json_key": "04.07.2026"
+    },
+    {
+      "column": 74,
+      "letter": "BV",
+      "source_header": "05.07.2026",
+      "json_key": "05.07.2026"
+    },
+    {
+      "column": 75,
+      "letter": "BW",
+      "source_header": "06.07.2026",
+      "json_key": "06.07.2026"
+    },
+    {
+      "column": 76,
+      "letter": "BX",
+      "source_header": "07.07.2026",
+      "json_key": "07.07.2026"
+    },
+    {
+      "column": 77,
+      "letter": "BY",
+      "source_header": "08.07.2026",
+      "json_key": "08.07.2026"
+    },
+    {
+      "column": 78,
+      "letter": "BZ",
+      "source_header": "09.07.2026",
+      "json_key": "09.07.2026"
+    },
+    {
+      "column": 79,
+      "letter": "CA",
+      "source_header": "10.07.2026",
+      "json_key": "10.07.2026"
+    },
+    {
+      "column": 80,
+      "letter": "CB",
+      "source_header": "11.07.2026",
+      "json_key": "11.07.2026"
+    },
+    {
+      "column": 81,
+      "letter": "CC",
+      "source_header": "12.07.2026",
+      "json_key": "12.07.2026"
+    },
+    {
+      "column": 82,
+      "letter": "CD",
+      "source_header": "13.07.2026",
+      "json_key": "13.07.2026"
+    },
+    {
+      "column": 83,
+      "letter": "CE",
+      "source_header": "14.07.2026",
+      "json_key": "14.07.2026"
+    },
+    {
+      "column": 84,
+      "letter": "CF",
+      "source_header": "15.07.2026",
+      "json_key": "15.07.2026"
+    },
+    {
+      "column": 85,
+      "letter": "CG",
+      "source_header": "16.07.2026",
+      "json_key": "16.07.2026"
+    },
+    {
+      "column": 86,
+      "letter": "CH",
+      "source_header": "17.07.2026",
+      "json_key": "17.07.2026"
+    },
+    {
+      "column": 87,
+      "letter": "CI",
+      "source_header": "18.07.2026",
+      "json_key": "18.07.2026"
+    },
+    {
+      "column": 88,
+      "letter": "CJ",
+      "source_header": "19.07.2026",
+      "json_key": "19.07.2026"
+    },
+    {
+      "column": 89,
+      "letter": "CK",
+      "source_header": "20.07.2026",
+      "json_key": "20.07.2026"
+    },
+    {
+      "column": 90,
+      "letter": "CL",
+      "source_header": "21.07.2026",
+      "json_key": "21.07.2026"
+    },
+    {
+      "column": 91,
+      "letter": "CM",
+      "source_header": "22.07.2026",
+      "json_key": "22.07.2026"
+    },
+    {
+      "column": 92,
+      "letter": "CN",
+      "source_header": "23.07.2026",
+      "json_key": "23.07.2026"
+    },
+    {
+      "column": 93,
+      "letter": "CO",
+      "source_header": "24.07.2026",
+      "json_key": "24.07.2026"
+    },
+    {
+      "column": 94,
+      "letter": "CP",
+      "source_header": "25.07.2026",
+      "json_key": "25.07.2026"
+    },
+    {
+      "column": 95,
+      "letter": "CQ",
+      "source_header": "26.07.2026",
+      "json_key": "26.07.2026"
+    },
+    {
+      "column": 96,
+      "letter": "CR",
+      "source_header": "27.07.2026",
+      "json_key": "27.07.2026"
+    },
+    {
+      "column": 97,
+      "letter": "CS",
+      "source_header": "28.07.2026",
+      "json_key": "28.07.2026"
+    },
+    {
+      "column": 98,
+      "letter": "CT",
+      "source_header": "29.07.2026",
+      "json_key": "29.07.2026"
+    },
+    {
+      "column": 99,
+      "letter": "CU",
+      "source_header": "30.07.2026",
+      "json_key": "30.07.2026"
+    }
+  ],
+  "preamble": [
+    {
+      "_row": 1,
+      "cells": {
+        "A": "Остатки по дням. С учетом удалённых товаров."
+      }
+    }
+  ],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 70.0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 295,
+  "cell_count": 29107,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 293,
+      "first_row": 3,
+      "last_row": 295,
+      "bytes": 495603,
+      "sha256": "8406c574a21b3458e019386232c279c31926f782421a4fd5be1e12ed99a5b37b"
+    }
+  ],
+  "formula_parts": []
+}
