@@ -1,6 +1,0 @@
-{
-  "formula_count": 0,
-  "shared_formula_masters": {},
-  "parts": [],
-  "note": "For shared formulas Excel may store the full formula only in the master cell; dependent cells reference formula_attributes.si."
-}
