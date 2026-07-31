@@ -1,0 +1,50 @@
+{
+  "format_version": "1.0",
+  "source_file": "Еженедельный детализированный отчет №763911647_250006755 - 1(1).xlsx",
+  "source_size_bytes": 1218793,
+  "source_sha256": "7aeafb007e9e4024340b48fbd7ff6b5db50eadf68ab7de48a273d95c414abf93",
+  "source_type": "xlsx",
+  "generated_at_utc": "2026-07-31T06:14:34.033947+00:00",
+  "date_system": "1900",
+  "active_sheet_index_zero_based": 0,
+  "calculation_properties": {
+    "calcId": "122211"
+  },
+  "defined_names": [],
+  "document_properties": {
+    "creator": null,
+    "lastModifiedBy": null,
+    "created": "2006-09-16T00:00:00Z",
+    "modified": "2026-07-30T03:54:23Z",
+    "application": {
+      "TotalTime": "0",
+      "Application": "Microsoft Excel",
+      "DocSecurity": "0",
+      "ScaleCrop": "false",
+      "LinksUpToDate": "false",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0300"
+    }
+  },
+  "has_vba": false,
+  "vba_project_sha256": null,
+  "sheets": [
+    {
+      "index": 1,
+      "name": "Sheet1",
+      "state": "visible",
+      "dimension": "A1:CF3254",
+      "header_row": 1,
+      "nonempty_rows": 3254,
+      "cells": 273336,
+      "formulas": 0,
+      "path": "sheets/01-sheet1/sheet.meta.json"
+    }
+  ],
+  "limitations": [
+    "Cached formula results are read from the source file and are not recalculated during export.",
+    "Formatting is summarized; drawings, buttons and embedded objects are inventoried but not reconstructed in JSON.",
+    "The original XLSX/XLSM remains the authoritative file, especially for VBA, styles and interactive controls."
+  ]
+}

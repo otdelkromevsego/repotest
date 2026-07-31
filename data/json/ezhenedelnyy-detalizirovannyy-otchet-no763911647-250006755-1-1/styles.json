@@ -1,0 +1,75 @@
+{
+  "cell_styles": [
+    {
+      "style_index": 0,
+      "num_fmt_id": 0,
+      "num_fmt_code": null,
+      "font_id": 0,
+      "fill_id": 0,
+      "border_id": 0,
+      "xf_id": 0,
+      "apply_number_format": false
+    },
+    {
+      "style_index": 1,
+      "num_fmt_id": 0,
+      "num_fmt_code": null,
+      "font_id": 1,
+      "fill_id": 0,
+      "border_id": 0,
+      "xf_id": 0,
+      "apply_number_format": false
+    },
+    {
+      "style_index": 2,
+      "num_fmt_id": 2,
+      "num_fmt_code": null,
+      "font_id": 0,
+      "fill_id": 0,
+      "border_id": 0,
+      "xf_id": 0,
+      "apply_number_format": true
+    },
+    {
+      "style_index": 3,
+      "num_fmt_id": 0,
+      "num_fmt_code": null,
+      "font_id": 0,
+      "fill_id": 0,
+      "border_id": 0,
+      "xf_id": 0,
+      "apply_number_format": false
+    },
+    {
+      "style_index": 4,
+      "num_fmt_id": 2,
+      "num_fmt_code": null,
+      "font_id": 0,
+      "fill_id": 0,
+      "border_id": 0,
+      "xf_id": 0,
+      "apply_number_format": true
+    },
+    {
+      "style_index": 5,
+      "num_fmt_id": 0,
+      "num_fmt_code": null,
+      "font_id": 0,
+      "fill_id": 0,
+      "border_id": 0,
+      "xf_id": 0,
+      "apply_number_format": false
+    },
+    {
+      "style_index": 6,
+      "num_fmt_id": 2,
+      "num_fmt_code": null,
+      "font_id": 0,
+      "fill_id": 0,
+      "border_id": 0,
+      "xf_id": 0,
+      "apply_number_format": true
+    }
+  ],
+  "custom_number_formats": {}
+}

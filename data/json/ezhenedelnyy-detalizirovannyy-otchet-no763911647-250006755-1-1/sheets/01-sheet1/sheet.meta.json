@@ -1,0 +1,1109 @@
+{
+  "sheet_index": 1,
+  "sheet_name": "Sheet1",
+  "sheet_state": "visible",
+  "sheet_id": "1",
+  "source_part": "xl/worksheets/sheet1.xml",
+  "dimension": "A1:CF3254",
+  "merged_ranges": [],
+  "columns": [
+    {
+      "min": 1,
+      "max": 1,
+      "width": 10.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "width": 25.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "width": 18.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "width": 19.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "width": 18.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "width": 23.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 7,
+      "max": 7,
+      "width": 100.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "width": 14.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "width": 20.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "width": 17.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 11,
+      "max": 13,
+      "width": 18.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "width": 16.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "width": 19.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "width": 23.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "width": 25.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "width": 20.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "width": 22.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "width": 25.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 21,
+      "max": 22,
+      "width": 35.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 23,
+      "max": 23,
+      "width": 21.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 24,
+      "max": 24,
+      "width": 14.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 25,
+      "max": 25,
+      "width": 18.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 26,
+      "max": 26,
+      "width": 16.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 27,
+      "max": 28,
+      "width": 33.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "width": 30.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 31,
+      "max": 31,
+      "width": 27.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 32,
+      "max": 32,
+      "width": 23.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 33,
+      "max": 33,
+      "width": 27.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 34,
+      "max": 35,
+      "width": 18.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "width": 24.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 37,
+      "max": 39,
+      "width": 35.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 40,
+      "max": 41,
+      "width": 16.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 42,
+      "max": 42,
+      "width": 24.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 43,
+      "max": 43,
+      "width": 19.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 44,
+      "max": 44,
+      "width": 30.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 45,
+      "max": 45,
+      "width": 16.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 46,
+      "max": 46,
+      "width": 30.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 47,
+      "max": 48,
+      "width": 20.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 49,
+      "max": 49,
+      "width": 19.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 50,
+      "max": 50,
+      "width": 16.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 51,
+      "max": 51,
+      "width": 20.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 52,
+      "max": 52,
+      "width": 25.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 53,
+      "max": 54,
+      "width": 15.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 55,
+      "max": 55,
+      "width": 32.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 56,
+      "max": 57,
+      "width": 30.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 58,
+      "max": 58,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "width": 60.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "width": 30.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 61,
+      "max": 61,
+      "width": 35.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 62,
+      "max": 62,
+      "width": 45.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 63,
+      "max": 64,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 65,
+      "max": 65,
+      "width": 45.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 66,
+      "max": 71,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 72,
+      "max": 72,
+      "width": 50.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 73,
+      "max": 74,
+      "width": 40.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 75,
+      "max": 75,
+      "width": 50.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 76,
+      "max": 84,
+      "width": 30.0,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 1,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "№",
+      "json_key": "№"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Номер поставки",
+      "json_key": "Номер поставки"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Предмет",
+      "json_key": "Предмет"
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Код номенклатуры",
+      "json_key": "Код номенклатуры"
+    },
+    {
+      "column": 5,
+      "letter": "E",
+      "source_header": "Бренд",
+      "json_key": "Бренд"
+    },
+    {
+      "column": 6,
+      "letter": "F",
+      "source_header": "Артикул поставщика",
+      "json_key": "Артикул поставщика"
+    },
+    {
+      "column": 7,
+      "letter": "G",
+      "source_header": "Название",
+      "json_key": "Название"
+    },
+    {
+      "column": 8,
+      "letter": "H",
+      "source_header": "Размер",
+      "json_key": "Размер"
+    },
+    {
+      "column": 9,
+      "letter": "I",
+      "source_header": "Баркод",
+      "json_key": "Баркод"
+    },
+    {
+      "column": 10,
+      "letter": "J",
+      "source_header": "Тип документа",
+      "json_key": "Тип документа"
+    },
+    {
+      "column": 11,
+      "letter": "K",
+      "source_header": "Обоснование для оплаты",
+      "json_key": "Обоснование для оплаты"
+    },
+    {
+      "column": 12,
+      "letter": "L",
+      "source_header": "Дата заказа покупателем",
+      "json_key": "Дата заказа покупателем"
+    },
+    {
+      "column": 13,
+      "letter": "M",
+      "source_header": "Дата продажи",
+      "json_key": "Дата продажи"
+    },
+    {
+      "column": 14,
+      "letter": "N",
+      "source_header": "Кол-во",
+      "json_key": "Кол-во"
+    },
+    {
+      "column": 15,
+      "letter": "O",
+      "source_header": "Цена розничная",
+      "json_key": "Цена розничная"
+    },
+    {
+      "column": 16,
+      "letter": "P",
+      "source_header": "Вайлдберриз реализовал Товар (Пр)",
+      "json_key": "Вайлдберриз реализовал Товар (Пр)"
+    },
+    {
+      "column": 17,
+      "letter": "Q",
+      "source_header": "Согласованный продуктовый дисконт, %",
+      "json_key": "Согласованный продуктовый дисконт, %"
+    },
+    {
+      "column": 18,
+      "letter": "R",
+      "source_header": "Промокод, %",
+      "json_key": "Промокод, %"
+    },
+    {
+      "column": 19,
+      "letter": "S",
+      "source_header": "Итоговая согласованная скидка, %",
+      "json_key": "Итоговая согласованная скидка, %"
+    },
+    {
+      "column": 20,
+      "letter": "T",
+      "source_header": "Цена розничная с учетом согласованной скидки",
+      "json_key": "Цена розничная с учетом согласованной скидки"
+    },
+    {
+      "column": 21,
+      "letter": "U",
+      "source_header": "Размер снижения кВВ из-за рейтинга, %",
+      "json_key": "Размер снижения кВВ из-за рейтинга, %"
+    },
+    {
+      "column": 22,
+      "letter": "V",
+      "source_header": "Размер изменения кВВ из-за акции, %",
+      "json_key": "Размер изменения кВВ из-за акции, %"
+    },
+    {
+      "column": 23,
+      "letter": "W",
+      "source_header": "Платформенные скидки, %",
+      "json_key": "Платформенные скидки, %"
+    },
+    {
+      "column": 24,
+      "letter": "X",
+      "source_header": "Размер кВВ, %",
+      "json_key": "Размер кВВ, %"
+    },
+    {
+      "column": 25,
+      "letter": "Y",
+      "source_header": "Размер кВВ без НДС, % Базовый",
+      "json_key": "Размер кВВ без НДС, % Базовый"
+    },
+    {
+      "column": 26,
+      "letter": "Z",
+      "source_header": "Итоговый кВВ без НДС, %",
+      "json_key": "Итоговый кВВ без НДС, %"
+    },
+    {
+      "column": 27,
+      "letter": "AA",
+      "source_header": "Вознаграждение с продаж до вычета услуг поверенного, без НДС",
+      "json_key": "Вознаграждение с продаж до вычета услуг поверенного, без НДС"
+    },
+    {
+      "column": 28,
+      "letter": "AB",
+      "source_header": "Возмещение за выдачу и возврат товаров на ПВЗ",
+      "json_key": "Возмещение за выдачу и возврат товаров на ПВЗ"
+    },
+    {
+      "column": 29,
+      "letter": "AC",
+      "source_header": "Компенсация платёжных услуг/Комиссия за интеграцию платёжных сервисов",
+      "json_key": "Компенсация платёжных услуг/Комиссия за интеграцию платёжных сервисов"
+    },
+    {
+      "column": 30,
+      "letter": "AD",
+      "source_header": "Размер компенсации платёжных услуг/Комиссии за интеграцию платёжных сервисов, %",
+      "json_key": "Размер компенсации платёжных услуг/Комиссии за интеграцию платёжных сервисов, %"
+    },
+    {
+      "column": 31,
+      "letter": "AE",
+      "source_header": "Тип платежа: компенсация платёжных услуг/Комиссия за интеграцию платёжных сервисов",
+      "json_key": "Тип платежа: компенсация платёжных услуг/Комиссия за интеграцию платёжных сервисов"
+    },
+    {
+      "column": 32,
+      "letter": "AF",
+      "source_header": "Вознаграждение Вайлдберриз (ВВ), без НДС",
+      "json_key": "Вознаграждение Вайлдберриз (ВВ), без НДС"
+    },
+    {
+      "column": 33,
+      "letter": "AG",
+      "source_header": "НДС с Вознаграждения Вайлдберриз",
+      "json_key": "НДС с Вознаграждения Вайлдберриз"
+    },
+    {
+      "column": 34,
+      "letter": "AH",
+      "source_header": "К перечислению Продавцу за реализованный Товар",
+      "json_key": "К перечислению Продавцу за реализованный Товар"
+    },
+    {
+      "column": 35,
+      "letter": "AI",
+      "source_header": "Количество доставок",
+      "json_key": "Количество доставок"
+    },
+    {
+      "column": 36,
+      "letter": "AJ",
+      "source_header": "Количество возврата",
+      "json_key": "Количество возврата"
+    },
+    {
+      "column": 37,
+      "letter": "AK",
+      "source_header": "Услуги по доставке товара покупателю",
+      "json_key": "Услуги по доставке товара покупателю"
+    },
+    {
+      "column": 38,
+      "letter": "AL",
+      "source_header": "Дата начала действия фиксации",
+      "json_key": "Дата начала действия фиксации"
+    },
+    {
+      "column": 39,
+      "letter": "AM",
+      "source_header": "Дата конца действия фиксации",
+      "json_key": "Дата конца действия фиксации"
+    },
+    {
+      "column": 40,
+      "letter": "AN",
+      "source_header": "Признак услуги платной доставки",
+      "json_key": "Признак услуги платной доставки"
+    },
+    {
+      "column": 41,
+      "letter": "AO",
+      "source_header": "Общая сумма штрафов",
+      "json_key": "Общая сумма штрафов"
+    },
+    {
+      "column": 42,
+      "letter": "AP",
+      "source_header": "Корректировка Вознаграждения Вайлдберриз (ВВ)",
+      "json_key": "Корректировка Вознаграждения Вайлдберриз (ВВ)"
+    },
+    {
+      "column": 43,
+      "letter": "AQ",
+      "source_header": "Виды логистики, штрафов и корректировок ВВ",
+      "json_key": "Виды логистики, штрафов и корректировок ВВ"
+    },
+    {
+      "column": 44,
+      "letter": "AR",
+      "source_header": "Стикер МП",
+      "json_key": "Стикер МП"
+    },
+    {
+      "column": 45,
+      "letter": "AS",
+      "source_header": "Наименование банка-эквайера",
+      "json_key": "Наименование банка-эквайера"
+    },
+    {
+      "column": 46,
+      "letter": "AT",
+      "source_header": "Номер офиса",
+      "json_key": "Номер офиса"
+    },
+    {
+      "column": 47,
+      "letter": "AU",
+      "source_header": "Наименование офиса доставки",
+      "json_key": "Наименование офиса доставки"
+    },
+    {
+      "column": 48,
+      "letter": "AV",
+      "source_header": "ИНН партнера",
+      "json_key": "ИНН партнера"
+    },
+    {
+      "column": 49,
+      "letter": "AW",
+      "source_header": "Партнер",
+      "json_key": "Партнер"
+    },
+    {
+      "column": 50,
+      "letter": "AX",
+      "source_header": "Склад",
+      "json_key": "Склад"
+    },
+    {
+      "column": 51,
+      "letter": "AY",
+      "source_header": "Страна",
+      "json_key": "Страна"
+    },
+    {
+      "column": 52,
+      "letter": "AZ",
+      "source_header": "Тип коробов",
+      "json_key": "Тип коробов"
+    },
+    {
+      "column": 53,
+      "letter": "BA",
+      "source_header": "Номер таможенной декларации",
+      "json_key": "Номер таможенной декларации"
+    },
+    {
+      "column": 54,
+      "letter": "BB",
+      "source_header": "Номер сборочного задания",
+      "json_key": "Номер сборочного задания"
+    },
+    {
+      "column": 55,
+      "letter": "BC",
+      "source_header": "Код маркировки",
+      "json_key": "Код маркировки"
+    },
+    {
+      "column": 56,
+      "letter": "BD",
+      "source_header": "ШК",
+      "json_key": "ШК"
+    },
+    {
+      "column": 57,
+      "letter": "BE",
+      "source_header": "Srid",
+      "json_key": "Srid"
+    },
+    {
+      "column": 58,
+      "letter": "BF",
+      "source_header": "Возмещение издержек по перевозке/по складским операциям с товаром",
+      "json_key": "Возмещение издержек по перевозке/по складским операциям с товаром"
+    },
+    {
+      "column": 59,
+      "letter": "BG",
+      "source_header": "Организатор перевозки",
+      "json_key": "Организатор перевозки"
+    },
+    {
+      "column": 60,
+      "letter": "BH",
+      "source_header": "Хранение",
+      "json_key": "Хранение"
+    },
+    {
+      "column": 61,
+      "letter": "BI",
+      "source_header": "Удержания",
+      "json_key": "Удержания"
+    },
+    {
+      "column": 62,
+      "letter": "BJ",
+      "source_header": "Операции на приемке",
+      "json_key": "Операции на приемке"
+    },
+    {
+      "column": 63,
+      "letter": "BK",
+      "source_header": "Фиксированный коэффициент склада по поставке",
+      "json_key": "Фиксированный коэффициент склада по поставке"
+    },
+    {
+      "column": 64,
+      "letter": "BL",
+      "source_header": "Признак продажи юридическому лицу",
+      "json_key": "Признак продажи юридическому лицу"
+    },
+    {
+      "column": 65,
+      "letter": "BM",
+      "source_header": "Номер короба для обработки товара",
+      "json_key": "Номер короба для обработки товара"
+    },
+    {
+      "column": 66,
+      "letter": "BN",
+      "source_header": "Скидка по программе софинансирования",
+      "json_key": "Скидка по программе софинансирования"
+    },
+    {
+      "column": 67,
+      "letter": "BO",
+      "source_header": "Скидка Wibes, %",
+      "json_key": "Скидка Wibes, %"
+    },
+    {
+      "column": 68,
+      "letter": "BP",
+      "source_header": "Компенсация скидки по программе лояльности",
+      "json_key": "Компенсация скидки по программе лояльности"
+    },
+    {
+      "column": 69,
+      "letter": "BQ",
+      "source_header": "Стоимость участия в программе лояльности",
+      "json_key": "Стоимость участия в программе лояльности"
+    },
+    {
+      "column": 70,
+      "letter": "BR",
+      "source_header": "Сумма баллов, удержанных по программе лояльности",
+      "json_key": "Сумма баллов, удержанных по программе лояльности"
+    },
+    {
+      "column": 71,
+      "letter": "BS",
+      "source_header": "Id корзины заказа",
+      "json_key": "Id корзины заказа"
+    },
+    {
+      "column": 72,
+      "letter": "BT",
+      "source_header": "Разовое изменение срока перечисления денежных средств",
+      "json_key": "Разовое изменение срока перечисления денежных средств"
+    },
+    {
+      "column": 73,
+      "letter": "BU",
+      "source_header": "Id собственной акции продавца с дополнительной скидкой",
+      "json_key": "Id собственной акции продавца с дополнительной скидкой"
+    },
+    {
+      "column": 74,
+      "letter": "BV",
+      "source_header": "Размер дополнительной скидки по собственной акции продавца, %",
+      "json_key": "Размер дополнительной скидки по собственной акции продавца, %"
+    },
+    {
+      "column": 75,
+      "letter": "BW",
+      "source_header": "Способы продажи и тип товара",
+      "json_key": "Способы продажи и тип товара"
+    },
+    {
+      "column": 76,
+      "letter": "BX",
+      "source_header": "Уникальный идентификатор скидки лояльности от продавца",
+      "json_key": "Уникальный идентификатор скидки лояльности от продавца"
+    },
+    {
+      "column": 77,
+      "letter": "BY",
+      "source_header": "Размер скидки лояльности от продавца, %",
+      "json_key": "Размер скидки лояльности от продавца, %"
+    },
+    {
+      "column": 78,
+      "letter": "BZ",
+      "source_header": "Id промокода",
+      "json_key": "Id промокода"
+    },
+    {
+      "column": 79,
+      "letter": "CA",
+      "source_header": "Скидка за промокод, %",
+      "json_key": "Скидка за промокод, %"
+    },
+    {
+      "column": 80,
+      "letter": "CB",
+      "source_header": "Id подменного артикула",
+      "json_key": "Id подменного артикула"
+    },
+    {
+      "column": 81,
+      "letter": "CC",
+      "source_header": "Скидка по подменному артикулу, %",
+      "json_key": "Скидка по подменному артикулу, %"
+    },
+    {
+      "column": 82,
+      "letter": "CD",
+      "source_header": "Оптовая скидка для бизнеса, %",
+      "json_key": "Оптовая скидка для бизнеса, %"
+    },
+    {
+      "column": 83,
+      "letter": "CE",
+      "source_header": "ИНН покупателя-юрлица или ИП",
+      "json_key": "ИНН покупателя-юрлица или ИП"
+    },
+    {
+      "column": 84,
+      "letter": "CF",
+      "source_header": "Оплата социальным сертификатом",
+      "json_key": "Оплата социальным сертификатом"
+    }
+  ],
+  "preamble": [],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 30.0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 3254,
+  "cell_count": 273336,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 595,
+      "first_row": 2,
+      "last_row": 596,
+      "bytes": 3055447,
+      "sha256": "98e72dd3dd90a2c43b5669cc68a5ff5a09c4274465cfe1b5afbf9b421aca5abc"
+    },
+    {
+      "file": "records.part-00002.jsonl",
+      "rows": 595,
+      "first_row": 597,
+      "last_row": 1191,
+      "bytes": 3046024,
+      "sha256": "72dd7e585d3a42282413389e471a6010cc26ae821d6add12e300b3dba672486f"
+    },
+    {
+      "file": "records.part-00003.jsonl",
+      "rows": 595,
+      "first_row": 1192,
+      "last_row": 1786,
+      "bytes": 3056386,
+      "sha256": "9a3a9587924f9e5074231b089894fb3d59b08026734df8190d32d92ac325e414"
+    },
+    {
+      "file": "records.part-00004.jsonl",
+      "rows": 595,
+      "first_row": 1787,
+      "last_row": 2381,
+      "bytes": 3050349,
+      "sha256": "5ba80f9f3fa5093096a51e826eb61bffbf3ca24f2352e2b9573327254c70c224"
+    },
+    {
+      "file": "records.part-00005.jsonl",
+      "rows": 595,
+      "first_row": 2382,
+      "last_row": 2976,
+      "bytes": 3053787,
+      "sha256": "243e45fb92920eb5fe3d8aed04ffcc819d0dfd53ad3b42f10158381426d9568b"
+    },
+    {
+      "file": "records.part-00006.jsonl",
+      "rows": 278,
+      "first_row": 2977,
+      "last_row": 3254,
+      "bytes": 1416941,
+      "sha256": "a9c001916b5e637efce0d56964fc04239a07382ce56cf733e40ef7127efc3ddf"
+    }
+  ],
+  "formula_parts": []
+}
