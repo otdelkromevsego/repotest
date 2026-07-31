@@ -1,0 +1,444 @@
+{
+  "sheet_index": 12,
+  "sheet_name": "Log",
+  "sheet_state": "visible",
+  "sheet_id": "13",
+  "source_part": "xl/worksheets/sheet12.xml",
+  "dimension": "A1:D55",
+  "merged_ranges": [],
+  "columns": [],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 1,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Date/time",
+      "json_key": "Date/time"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "User",
+      "json_key": "User"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Action",
+      "json_key": "Action"
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Details",
+      "json_key": "Details"
+    }
+  ],
+  "preamble": [],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 3,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 4,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 5,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 6,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 7,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 8,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 9,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 10,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 11,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 12,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 13,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 14,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 15,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 16,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 17,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 18,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 19,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 20,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 21,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 22,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 23,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 24,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 25,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 26,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 27,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 28,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 29,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 30,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 31,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 32,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 33,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 34,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 35,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 36,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 37,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 38,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 39,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 40,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 41,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 42,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 43,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 44,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 45,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 46,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 47,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 48,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 49,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 50,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 51,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 52,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 53,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 54,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 55,
+      "hidden": false,
+      "height": 15.0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 55,
+  "cell_count": 220,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 54,
+      "first_row": 2,
+      "last_row": 55,
+      "bytes": 7701,
+      "sha256": "5eff92759a95df8e80d0b70e2800d9cced211261bfdac2b9793b3f14c760bfce"
+    }
+  ],
+  "formula_parts": []
+}

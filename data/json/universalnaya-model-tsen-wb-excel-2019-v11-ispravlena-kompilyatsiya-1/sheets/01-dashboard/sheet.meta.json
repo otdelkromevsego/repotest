@@ -1,0 +1,989 @@
+{
+  "sheet_index": 1,
+  "sheet_name": "Dashboard",
+  "sheet_state": "visible",
+  "sheet_id": "1",
+  "source_part": "xl/worksheets/sheet1.xml",
+  "dimension": "A1:N99",
+  "merged_ranges": [
+    "A1:N1",
+    "A2:N2",
+    "A5:N5"
+  ],
+  "columns": [
+    {
+      "min": 1,
+      "max": 1,
+      "width": 11.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "width": 46.875,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "width": 12.625,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "width": 15.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 7,
+      "max": 7,
+      "width": 22.5,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "width": 17.875,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 9,
+      "max": 10,
+      "width": 8.125,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "width": 17.875,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "width": 8.125,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "width": 13.5,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "width": 11.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": "A9:G99",
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [
+    {
+      "relationship_id": "rId1",
+      "target": "xl/drawings/drawing1.xml",
+      "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing"
+    }
+  ],
+  "header_row": 9,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Артикул",
+      "json_key": "Артикул"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Наименование",
+      "json_key": "Наименование"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Режим",
+      "json_key": "Режим"
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Текущая цена",
+      "json_key": "Текущая цена"
+    },
+    {
+      "column": 5,
+      "letter": "E",
+      "source_header": "Рекоменд. цена",
+      "json_key": "Рекоменд. цена"
+    },
+    {
+      "column": 6,
+      "letter": "F",
+      "source_header": "Рост прибыли/мес",
+      "json_key": "Рост прибыли/мес"
+    },
+    {
+      "column": 7,
+      "letter": "G",
+      "source_header": "Статус",
+      "json_key": "Статус"
+    },
+    {
+      "column": 8,
+      "letter": "H",
+      "source_header": null,
+      "json_key": "_col_H"
+    },
+    {
+      "column": 9,
+      "letter": "I",
+      "source_header": null,
+      "json_key": "_col_I"
+    },
+    {
+      "column": 10,
+      "letter": "J",
+      "source_header": null,
+      "json_key": "_col_J"
+    },
+    {
+      "column": 11,
+      "letter": "K",
+      "source_header": null,
+      "json_key": "_col_K"
+    },
+    {
+      "column": 12,
+      "letter": "L",
+      "source_header": null,
+      "json_key": "_col_L"
+    },
+    {
+      "column": 13,
+      "letter": "M",
+      "source_header": null,
+      "json_key": "_col_M"
+    },
+    {
+      "column": 14,
+      "letter": "N",
+      "source_header": null,
+      "json_key": "_col_N"
+    }
+  ],
+  "preamble": [
+    {
+      "_row": 1,
+      "cells": {
+        "A": "УНИВЕРСАЛЬНАЯ МОДЕЛЬ ОПТИМАЛЬНОЙ ЦЕНЫ WILDBERRIES",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null
+      }
+    },
+    {
+      "_row": 2,
+      "cells": {
+        "A": "Все артикулы • FBS и FBW • загрузка отчётов одной кнопкой",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null
+      }
+    },
+    {
+      "_row": 3,
+      "cells": {
+        "A": "АРТИКУЛОВ",
+        "B": null,
+        "C": null,
+        "D": "БЕЗ СЕБЕСТОИМОСТИ",
+        "E": null,
+        "F": null,
+        "G": "ТЕКУЩАЯ ПРИБЫЛЬ / МЕС",
+        "H": null,
+        "I": null,
+        "J": "РЕКОМЕНД. ПРИБЫЛЬ / МЕС",
+        "K": null,
+        "L": null,
+        "M": "ПОТЕНЦИАЛ РОСТА",
+        "N": null
+      }
+    },
+    {
+      "_row": 4,
+      "cells": {
+        "B": 90,
+        "C": null,
+        "D": null,
+        "E": 0,
+        "F": null,
+        "G": null,
+        "H": 253103.9012739591,
+        "I": null,
+        "J": null,
+        "K": 341186.7844008776,
+        "L": null,
+        "M": null,
+        "N": 88082.88312691849
+      }
+    },
+    {
+      "_row": 5,
+      "cells": {
+        "A": "Цена, комиссия, логистика, режим и услуги WB берутся только из загруженных отчётов. Доставка до склада — из файла себестоимости.",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null,
+        "H": null,
+        "I": null,
+        "J": null,
+        "K": null,
+        "L": null,
+        "M": null,
+        "N": null
+      }
+    },
+    {
+      "_row": 6,
+      "cells": {
+        "A": "Последнее обновление:",
+        "B": "2026-07-30T13:04:56"
+      }
+    }
+  ],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 23.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 3,
+      "hidden": false,
+      "height": 51.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 4,
+      "hidden": false,
+      "height": 20.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 9,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 10,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 11,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 12,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 13,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 14,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 15,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 16,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 17,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 18,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 19,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 20,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 21,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 22,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 23,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 24,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 25,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 26,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 27,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 28,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 29,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 30,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 31,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 32,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 33,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 34,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 35,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 36,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 37,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 38,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 39,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 40,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 41,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 42,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 43,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 44,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 45,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 46,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 47,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 48,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 49,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 50,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 51,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 52,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 53,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 54,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 55,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 56,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 57,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 58,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 59,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 60,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 61,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 62,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 63,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 64,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 65,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 66,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 67,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 68,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 69,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 70,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 71,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 72,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 73,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 74,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 75,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 76,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 77,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 78,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 79,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 80,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 81,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 82,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 83,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 84,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 85,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 86,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 87,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 88,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 89,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 90,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 91,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 92,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 93,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 94,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 95,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 96,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 97,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 98,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 99,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 97,
+  "cell_count": 658,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 90,
+      "first_row": 10,
+      "last_row": 99,
+      "bytes": 23578,
+      "sha256": "35a99e28cb3c37c2bf4fe06b45cf2bae8cc52c6bff014d8e65bfbaa2f3a0fbf5"
+    }
+  ],
+  "formula_parts": []
+}

@@ -1,0 +1,345 @@
+{
+  "status": "ok",
+  "method": "LibreOffice XLSM-to-ODS VBA import, then XML source extraction",
+  "warning": "This text export is for review and version control. The original XLSM remains authoritative and should be used for execution.",
+  "libreoffice_output": "convert /mnt/data/Универсальная_модель_цен_WB_Excel_2019_v11_исправлена_компиляция(1).xlsm as a Calc document -> /tmp/vba_extract_sfze0py6/Универсальная_модель_цен_WB_Excel_2019_v11_исправлена_компиляция(1).ods using filter : calc8",
+  "modules": [
+    {
+      "module": "Module1",
+      "module_type": "VBAModule",
+      "file": "source/Module1.bas",
+      "lines": 1780,
+      "sha256": "0324f2c3e9c05c61b70be66870a7ed68f9ec5979d8a0f833d31dae5520667055",
+      "procedures": [
+        {
+          "kind": "Sub",
+          "name": "BindModelWorkbook",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "SyntaxSmoke",
+          "visibility": "Public"
+        },
+        {
+          "kind": "Sub",
+          "name": "TestVBA",
+          "visibility": "Public"
+        },
+        {
+          "kind": "Sub",
+          "name": "InitializeModel",
+          "visibility": "Public"
+        },
+        {
+          "kind": "Sub",
+          "name": "SetupButtons",
+          "visibility": "Public"
+        },
+        {
+          "kind": "Sub",
+          "name": "SelectReports",
+          "visibility": "Public"
+        },
+        {
+          "kind": "Function",
+          "name": "PickExcelFile",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "RefreshFromFolder",
+          "visibility": "Public"
+        },
+        {
+          "kind": "Sub",
+          "name": "DetectReportFiles",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "ImportAllReports",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "ImportSheetValues",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "ImportCostsFile",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "CostArticleSeenBefore",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "RecalculateAll",
+          "visibility": "Public"
+        },
+        {
+          "kind": "Sub",
+          "name": "AddArticlesFromCosts",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "EnsureResultArticle",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "FindResultRow",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "AggregateFinance",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "AppendFunnelDaily",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "AppendStockDaily",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "AggregateStockDetail",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "EnsureCostRowsNoDictionary",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "FindCostRow",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "SortResultsByArticle",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "SortDailyByArticleDate",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "ConsolidateDailyRows",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "CalculateResultRows",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "CalculateOneResultRow",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "ApplyHierarchicalElasticityAndReprice",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "AverageReliableElasticity",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "RepriceResultRow",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "FindBucketIndex",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "BestPrice",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "SafeDemandFactor",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "SafeMultiply4",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "ClampDouble",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "BuildScenario",
+          "visibility": "Public"
+        },
+        {
+          "kind": "Sub",
+          "name": "SortResultsByUplift",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "UpdateDashboard",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "UpdateDashboardCharts",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "UpdateScenarioChart",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "ConfidenceLabel",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "LastUsedRow",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "LastUsedCol",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "SafeVal",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "SafeCellVal",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "NzOrDefault",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "Txt",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Function",
+          "name": "ParseDateValue",
+          "visibility": "Private"
+        },
+        {
+          "kind": "Sub",
+          "name": "WriteLog",
+          "visibility": "Private"
+        }
+      ]
+    },
+    {
+      "module": "Sheet1",
+      "module_type": "VBADocumentModule",
+      "file": "source/Sheet1.cls",
+      "lines": 24,
+      "sha256": "ededd81c6428fdeacf686d769fd2987913d45f09c6fbb5bf8fae452a5957ee6c",
+      "procedures": []
+    },
+    {
+      "module": "Sheet2",
+      "module_type": "VBADocumentModule",
+      "file": "source/Sheet2.cls",
+      "lines": 23,
+      "sha256": "82a68d5134c390362e698b86c6ab6ec0b01585da55941649bb0776d417d20cfe",
+      "procedures": []
+    },
+    {
+      "module": "Sheet3",
+      "module_type": "VBADocumentModule",
+      "file": "source/Sheet3.cls",
+      "lines": 23,
+      "sha256": "db50e3c16d752064d2e683c405da597a5e1614fa54624a730cfc44225339ba6f",
+      "procedures": []
+    },
+    {
+      "module": "Sheet4",
+      "module_type": "VBADocumentModule",
+      "file": "source/Sheet4.cls",
+      "lines": 23,
+      "sha256": "d42133c8ab30032bb0a3b8619967b7edf30282aa9c6f7ae2d02cc3c9bcdafd82",
+      "procedures": []
+    },
+    {
+      "module": "Sheet5",
+      "module_type": "VBADocumentModule",
+      "file": "source/Sheet5.cls",
+      "lines": 23,
+      "sha256": "a77d19e2d2724eeec05b3b302ab7711f423c7d228d67a6d3a157c9a2ec5bafda",
+      "procedures": []
+    },
+    {
+      "module": "Sheet6",
+      "module_type": "VBADocumentModule",
+      "file": "source/Sheet6.cls",
+      "lines": 23,
+      "sha256": "f2a920e8d6f1894382734258a7c2521c9f6a9af73d724fba86c8c36ed579839f",
+      "procedures": []
+    },
+    {
+      "module": "Sheet7",
+      "module_type": "VBADocumentModule",
+      "file": "source/Sheet7.cls",
+      "lines": 23,
+      "sha256": "c162292df07ee3238da38717c87cb731c4d007639d47903e8a90a0d8f46c44db",
+      "procedures": []
+    },
+    {
+      "module": "Sheet8",
+      "module_type": "VBADocumentModule",
+      "file": "source/Sheet8.cls",
+      "lines": 23,
+      "sha256": "5ff7d19ace5b7f0ce4462d0fb522c6b2a4d3dae1932ecbec2594c9274d2f67e9",
+      "procedures": []
+    },
+    {
+      "module": "ThisWorkbook",
+      "module_type": "VBADocumentModule",
+      "file": "source/ThisWorkbook.cls",
+      "lines": 21,
+      "sha256": "e6082f10c8b04e382376f041c3e541924e8852c89184c0ce0a32c6d6c0afad79",
+      "procedures": [
+        {
+          "kind": "Sub",
+          "name": "Workbook_Open",
+          "visibility": "Private"
+        }
+      ]
+    }
+  ]
+}

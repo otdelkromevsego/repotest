@@ -1,0 +1,196 @@
+{
+  "format_version": "1.0",
+  "source_file": "Универсальная_модель_цен_WB_Excel_2019_v11_исправлена_компиляция(1).xlsm",
+  "source_size_bytes": 2187447,
+  "source_sha256": "5bc429d74d30fc722b9434144e229d12000368ad694bd59fb6fd81e7ace31731",
+  "source_type": "xlsm",
+  "generated_at_utc": "2026-07-31T06:14:38.129708+00:00",
+  "date_system": "1900",
+  "active_sheet_index_zero_based": 0,
+  "calculation_properties": {
+    "calcId": "0",
+    "iterateDelta": "1E-4"
+  },
+  "defined_names": [
+    {
+      "name": "_xlnm._FilterDatabase",
+      "local_sheet_id": 0,
+      "hidden": true,
+      "text": "Dashboard!$A$9:$G$99"
+    }
+  ],
+  "document_properties": {
+    "title": null,
+    "subject": null,
+    "creator": "konst_3d",
+    "description": null,
+    "lastModifiedBy": "konst_3d",
+    "revision": "2",
+    "created": "2026-07-30T06:04:39Z",
+    "modified": "2026-07-30T06:22:54Z",
+    "language": "en-US",
+    "application": {
+      "Template": null,
+      "TotalTime": "0",
+      "Application": "Microsoft Excel",
+      "DocSecurity": "0",
+      "ScaleCrop": "false",
+      "LinksUpToDate": "false",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0300"
+    }
+  },
+  "has_vba": true,
+  "vba_project_sha256": "d5d93edaa6fdb8bb06e217f0627372c250f8ba93f176f2176e517e886bd4dfa1",
+  "sheets": [
+    {
+      "index": 1,
+      "name": "Dashboard",
+      "state": "visible",
+      "dimension": "A1:N99",
+      "header_row": 9,
+      "nonempty_rows": 97,
+      "cells": 658,
+      "formulas": 0,
+      "path": "sheets/01-dashboard/sheet.meta.json"
+    },
+    {
+      "index": 2,
+      "name": "Settings",
+      "state": "visible",
+      "dimension": "A1:D31",
+      "header_row": 2,
+      "nonempty_rows": 31,
+      "cells": 124,
+      "formulas": 0,
+      "path": "sheets/02-settings/sheet.meta.json"
+    },
+    {
+      "index": 3,
+      "name": "Costs",
+      "state": "visible",
+      "dimension": "A1:Q92",
+      "header_row": 1,
+      "nonempty_rows": 92,
+      "cells": 1564,
+      "formulas": 0,
+      "path": "sheets/03-costs/sheet.meta.json"
+    },
+    {
+      "index": 4,
+      "name": "Results",
+      "state": "visible",
+      "dimension": "A1:BI91",
+      "header_row": 1,
+      "nonempty_rows": 91,
+      "cells": 4337,
+      "formulas": 0,
+      "path": "sheets/04-results/sheet.meta.json"
+    },
+    {
+      "index": 5,
+      "name": "Scenario",
+      "state": "visible",
+      "dimension": "A1:F20",
+      "header_row": 4,
+      "nonempty_rows": 19,
+      "cells": 99,
+      "formulas": 0,
+      "path": "sheets/05-scenario/sheet.meta.json"
+    },
+    {
+      "index": 6,
+      "name": "Price_History",
+      "state": "visible",
+      "dimension": "A1:H228",
+      "header_row": 1,
+      "nonempty_rows": 228,
+      "cells": 1824,
+      "formulas": 0,
+      "path": "sheets/06-price-history/sheet.meta.json"
+    },
+    {
+      "index": 7,
+      "name": "Daily_Data",
+      "state": "visible",
+      "dimension": "A1:I34035",
+      "header_row": 1,
+      "nonempty_rows": 34035,
+      "cells": 87910,
+      "formulas": 0,
+      "path": "sheets/07-daily-data/sheet.meta.json"
+    },
+    {
+      "index": 8,
+      "name": "Instructions",
+      "state": "visible",
+      "dimension": "A1:C10",
+      "header_row": 2,
+      "nonempty_rows": 10,
+      "cells": 30,
+      "formulas": 0,
+      "path": "sheets/08-instructions/sheet.meta.json"
+    },
+    {
+      "index": 9,
+      "name": "RAW_Finance",
+      "state": "visible",
+      "dimension": "A1:CF3254",
+      "header_row": 1,
+      "nonempty_rows": 3254,
+      "cells": 195632,
+      "formulas": 0,
+      "path": "sheets/09-raw-finance/sheet.meta.json"
+    },
+    {
+      "index": 10,
+      "name": "RAW_Funnel",
+      "state": "visible",
+      "dimension": "A1:V7080",
+      "header_row": 2,
+      "nonempty_rows": 7080,
+      "cells": 148661,
+      "formulas": 0,
+      "path": "sheets/10-raw-funnel/sheet.meta.json"
+    },
+    {
+      "index": 11,
+      "name": "RAW_Stock",
+      "state": "visible",
+      "dimension": "A1:CU295",
+      "header_row": 2,
+      "nonempty_rows": 295,
+      "cells": 29107,
+      "formulas": 0,
+      "path": "sheets/11-raw-stock/sheet.meta.json"
+    },
+    {
+      "index": 12,
+      "name": "Log",
+      "state": "visible",
+      "dimension": "A1:D55",
+      "header_row": 1,
+      "nonempty_rows": 55,
+      "cells": 220,
+      "formulas": 0,
+      "path": "sheets/12-log/sheet.meta.json"
+    },
+    {
+      "index": 13,
+      "name": "RAW_Stock_Detail",
+      "state": "visible",
+      "dimension": "A1:AF295",
+      "header_row": 2,
+      "nonempty_rows": 295,
+      "cells": 9371,
+      "formulas": 0,
+      "path": "sheets/13-raw-stock-detail/sheet.meta.json"
+    }
+  ],
+  "limitations": [
+    "Cached formula results are read from the source file and are not recalculated during export.",
+    "Formatting is summarized; drawings, buttons and embedded objects are inventoried but not reconstructed in JSON.",
+    "The original XLSX/XLSM remains the authoritative file, especially for VBA, styles and interactive controls."
+  ]
+}

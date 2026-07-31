@@ -1,0 +1,54 @@
+{"_row":2,"Date/time":"2026-07-30T11:41:04","User":"konst_3d","Action":"Cost import","Details":"Costs loaded: 91; new cost rows: 91; duplicates skipped: 0; invalid rows skipped: 0"}
+{"_row":3,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 127865: 6 - Overflow"}
+{"_row":4,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 127919: 6 - Overflow"}
+{"_row":5,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 501956: 6 - Overflow"}
+{"_row":6,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 504179: 6 - Overflow"}
+{"_row":7,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 504261: 6 - Overflow"}
+{"_row":8,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 504278: 6 - Overflow"}
+{"_row":9,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 504285: 6 - Overflow"}
+{"_row":10,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 504315: 6 - Overflow"}
+{"_row":11,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 504377: 6 - Overflow"}
+{"_row":12,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 504384: 6 - Overflow"}
+{"_row":13,"Date/time":"2026-07-30T11:41:09","User":"konst_3d","Action":"Article calculation error","Details":"Article 504391: 6 - Overflow"}
+{"_row":14,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 510484: 6 - Overflow"}
+{"_row":15,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 510521: 6 - Overflow"}
+{"_row":16,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 510866: 6 - Overflow"}
+{"_row":17,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 516615: 6 - Overflow"}
+{"_row":18,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 516646: 6 - Overflow"}
+{"_row":19,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 518015: 6 - Overflow"}
+{"_row":20,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 520858: 6 - Overflow"}
+{"_row":21,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 520889: 6 - Overflow"}
+{"_row":22,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 520926: 6 - Overflow"}
+{"_row":23,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 791675: 6 - Overflow"}
+{"_row":24,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 791705: 6 - Overflow"}
+{"_row":25,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 797073: 6 - Overflow"}
+{"_row":26,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 797103: 6 - Overflow"}
+{"_row":27,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Article calculation error","Details":"Article 797141: 6 - Overflow"}
+{"_row":28,"Date/time":"2026-07-30T11:41:10","User":"konst_3d","Action":"Calculation","Details":"Articles processed: 90"}
+{"_row":29,"Date/time":"2026-07-30T13:04:56","User":"konst_3d","Action":"Cost import","Details":"Costs loaded: 91; new cost rows: 0; duplicates skipped: 0; invalid rows skipped: 0"}
+{"_row":30,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 127865: 6 - Overflow"}
+{"_row":31,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 127919: 6 - Overflow"}
+{"_row":32,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 501956: 6 - Overflow"}
+{"_row":33,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 504179: 6 - Overflow"}
+{"_row":34,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 504261: 6 - Overflow"}
+{"_row":35,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 504278: 6 - Overflow"}
+{"_row":36,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 504285: 6 - Overflow"}
+{"_row":37,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 504315: 6 - Overflow"}
+{"_row":38,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 504377: 6 - Overflow"}
+{"_row":39,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 504384: 6 - Overflow"}
+{"_row":40,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 504391: 6 - Overflow"}
+{"_row":41,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 510484: 6 - Overflow"}
+{"_row":42,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 510521: 6 - Overflow"}
+{"_row":43,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 510866: 6 - Overflow"}
+{"_row":44,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 516615: 6 - Overflow"}
+{"_row":45,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 516646: 6 - Overflow"}
+{"_row":46,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 518015: 6 - Overflow"}
+{"_row":47,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 520858: 6 - Overflow"}
+{"_row":48,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 520889: 6 - Overflow"}
+{"_row":49,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 520926: 6 - Overflow"}
+{"_row":50,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 791675: 6 - Overflow"}
+{"_row":51,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 791705: 6 - Overflow"}
+{"_row":52,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 797073: 6 - Overflow"}
+{"_row":53,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 797103: 6 - Overflow"}
+{"_row":54,"Date/time":"2026-07-30T13:05:01","User":"konst_3d","Action":"Article calculation error","Details":"Article 797141: 6 - Overflow"}
+{"_row":55,"Date/time":"2026-07-30T13:05:02","User":"konst_3d","Action":"Calculation","Details":"Articles processed: 90"}

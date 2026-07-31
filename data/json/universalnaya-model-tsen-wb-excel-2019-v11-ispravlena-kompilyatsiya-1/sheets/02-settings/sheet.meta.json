@@ -1,0 +1,325 @@
+{
+  "sheet_index": 2,
+  "sheet_name": "Settings",
+  "sheet_state": "visible",
+  "sheet_id": "2",
+  "source_part": "xl/worksheets/sheet2.xml",
+  "dimension": "A1:D31",
+  "merged_ranges": [
+    "A1:D1"
+  ],
+  "columns": [
+    {
+      "min": 1,
+      "max": 1,
+      "width": 29.25,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "width": 15.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "width": 11.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "width": 45.0,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 2,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Параметр",
+      "json_key": "Параметр"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Значение",
+      "json_key": "Значение"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Ед.",
+      "json_key": "Ед."
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Комментарий",
+      "json_key": "Комментарий"
+    }
+  ],
+  "preamble": [
+    {
+      "_row": 1,
+      "cells": {
+        "A": "ГЛОБАЛЬНЫЕ НАСТРОЙКИ МОДЕЛИ",
+        "B": null,
+        "C": null,
+        "D": null
+      }
+    }
+  ],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 20.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 3,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 4,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 5,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 6,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 7,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 8,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 9,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 10,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 11,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 12,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 13,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 14,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 15,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 16,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 17,
+      "hidden": false,
+      "height": 38.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 18,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 19,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 20,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 21,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 22,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 23,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 24,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 25,
+      "hidden": false,
+      "height": 38.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 26,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 27,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 28,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 29,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 30,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 31,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 31,
+  "cell_count": 124,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 29,
+      "first_row": 3,
+      "last_row": 31,
+      "bytes": 7436,
+      "sha256": "49fd71ab3a2e4c0ca99b2d4c303fec5ee2775158cee36ee43adc3ba665539810"
+    }
+  ],
+  "formula_parts": []
+}

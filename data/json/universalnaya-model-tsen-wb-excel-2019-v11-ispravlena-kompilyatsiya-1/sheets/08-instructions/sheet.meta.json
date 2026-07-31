@@ -1,0 +1,162 @@
+{
+  "sheet_index": 8,
+  "sheet_name": "Instructions",
+  "sheet_state": "visible",
+  "sheet_id": "8",
+  "source_part": "xl/worksheets/sheet8.xml",
+  "dimension": "A1:C10",
+  "merged_ranges": [
+    "A1:C1"
+  ],
+  "columns": [
+    {
+      "min": 1,
+      "max": 1,
+      "width": 8.125,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "width": 38.25,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "width": 58.5,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 2,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Шаг",
+      "json_key": "Шаг"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Действие",
+      "json_key": "Действие"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Пояснение",
+      "json_key": "Пояснение"
+    }
+  ],
+  "preamble": [
+    {
+      "_row": 1,
+      "cells": {
+        "A": "КАК ПОЛЬЗОВАТЬСЯ МОДЕЛЬЮ",
+        "B": null,
+        "C": null
+      }
+    }
+  ],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 20.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 3,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 4,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 5,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 6,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 7,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 8,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 9,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 10,
+      "hidden": false,
+      "height": 25.5,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 10,
+  "cell_count": 30,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 8,
+      "first_row": 3,
+      "last_row": 10,
+      "bytes": 1964,
+      "sha256": "afc29500f3262a705e75256af59716f20acb0e3d6ac06b7ce8b8ec2ec36be3ea"
+    }
+  ],
+  "formula_parts": []
+}

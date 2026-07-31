@@ -1,0 +1,272 @@
+{
+  "sheet_index": 5,
+  "sheet_name": "Scenario",
+  "sheet_state": "visible",
+  "sheet_id": "5",
+  "source_part": "xl/worksheets/sheet5.xml",
+  "dimension": "A1:F20",
+  "merged_ranges": [
+    "A1:F1"
+  ],
+  "columns": [
+    {
+      "min": 1,
+      "max": 1,
+      "width": 12.625,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "width": 14.375,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "width": 15.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "width": 11.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [
+    {
+      "relationship_id": "rId1",
+      "target": "xl/drawings/drawing2.xml",
+      "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing"
+    }
+  ],
+  "header_row": 4,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Цена, ₽",
+      "json_key": "Цена, ₽"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Заказов/день",
+      "json_key": "Заказов/день"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Выкупов/день",
+      "json_key": "Выкупов/день"
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Прибыль/ед., ₽",
+      "json_key": "Прибыль/ед., ₽"
+    },
+    {
+      "column": 5,
+      "letter": "E",
+      "source_header": "Прибыль/мес, ₽",
+      "json_key": "Прибыль/мес, ₽"
+    },
+    {
+      "column": 6,
+      "letter": "F",
+      "source_header": "Метка",
+      "json_key": "Метка"
+    }
+  ],
+  "preamble": [
+    {
+      "_row": 1,
+      "cells": {
+        "A": "СЦЕНАРНЫЙ АНАЛИЗ ПО ВЫБРАННОМУ АРТИКУЛУ",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null
+      }
+    },
+    {
+      "_row": 2,
+      "cells": {
+        "A": "Артикул",
+        "B": "521404",
+        "C": "Наименование",
+        "D": "Стол журнальный Mezzo",
+        "E": "Режим",
+        "F": "FBW"
+      }
+    }
+  ],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 19.5,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 38.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 4,
+      "hidden": false,
+      "height": 14.25,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 5,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 6,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 7,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 8,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 9,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 10,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 11,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 12,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 13,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 14,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 15,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 16,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 17,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 18,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 19,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 20,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 19,
+  "cell_count": 99,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 16,
+      "first_row": 5,
+      "last_row": 20,
+      "bytes": 3538,
+      "sha256": "de6e9c8238768f2a0140cd84461df7d271f9992a0490dca51895aa88043b2638"
+    }
+  ],
+  "formula_parts": []
+}

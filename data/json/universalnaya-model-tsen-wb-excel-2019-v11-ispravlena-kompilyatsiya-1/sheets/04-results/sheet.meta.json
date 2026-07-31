@@ -1,0 +1,1156 @@
+{
+  "sheet_index": 4,
+  "sheet_name": "Results",
+  "sheet_state": "visible",
+  "sheet_id": "4",
+  "source_part": "xl/worksheets/sheet4.xml",
+  "dimension": "A1:BI91",
+  "merged_ranges": [],
+  "columns": [
+    {
+      "min": 1,
+      "max": 2,
+      "width": 12.125,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "width": 33.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 4,
+      "max": 33,
+      "width": 12.125,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 34,
+      "max": 34,
+      "width": 15.75,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 35,
+      "max": 35,
+      "width": 12.125,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "width": 27.0,
+      "hidden": false,
+      "style": 1,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 51,
+      "max": 51,
+      "width": 25.625,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 52,
+      "max": 55,
+      "width": 20.625,
+      "hidden": false,
+      "style": 30,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 56,
+      "max": 56,
+      "width": 34.625,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 57,
+      "max": 58,
+      "width": 18.625,
+      "hidden": false,
+      "style": 31,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "width": 18.625,
+      "hidden": false,
+      "style": 32,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "width": 22.625,
+      "hidden": false,
+      "style": 33,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "min": 61,
+      "max": 61,
+      "width": 20.625,
+      "hidden": false,
+      "style": 0,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "freeze_pane": null,
+  "auto_filter": null,
+  "hyperlinks": [],
+  "tables": [],
+  "drawings": [],
+  "header_row": 1,
+  "columns_normalized": [
+    {
+      "column": 1,
+      "letter": "A",
+      "source_header": "Артикул продавца",
+      "json_key": "Артикул продавца"
+    },
+    {
+      "column": 2,
+      "letter": "B",
+      "source_header": "Артикул WB",
+      "json_key": "Артикул WB"
+    },
+    {
+      "column": 3,
+      "letter": "C",
+      "source_header": "Наименование",
+      "json_key": "Наименование"
+    },
+    {
+      "column": 4,
+      "letter": "D",
+      "source_header": "Режим",
+      "json_key": "Режим"
+    },
+    {
+      "column": 5,
+      "letter": "E",
+      "source_header": "Текущая цена, ₽",
+      "json_key": "Текущая цена, ₽"
+    },
+    {
+      "column": 6,
+      "letter": "F",
+      "source_header": "Себестоимость, ₽",
+      "json_key": "Себестоимость, ₽"
+    },
+    {
+      "column": 7,
+      "letter": "G",
+      "source_header": "Комиссия, %",
+      "json_key": "Комиссия, %"
+    },
+    {
+      "column": 8,
+      "letter": "H",
+      "source_header": "Налог, %",
+      "json_key": "Налог, %"
+    },
+    {
+      "column": 9,
+      "letter": "I",
+      "source_header": "Логистика, ₽",
+      "json_key": "Логистика, ₽"
+    },
+    {
+      "column": 10,
+      "letter": "J",
+      "source_header": "Выкуп, %",
+      "json_key": "Выкуп, %"
+    },
+    {
+      "column": 11,
+      "letter": "K",
+      "source_header": "Заказов/день",
+      "json_key": "Заказов/день"
+    },
+    {
+      "column": 12,
+      "letter": "L",
+      "source_header": "Дней данных",
+      "json_key": "Дней данных"
+    },
+    {
+      "column": 13,
+      "letter": "M",
+      "source_header": "Ценовых групп",
+      "json_key": "Ценовых групп"
+    },
+    {
+      "column": 14,
+      "letter": "N",
+      "source_header": "Эластичность",
+      "json_key": "Эластичность"
+    },
+    {
+      "column": 15,
+      "letter": "O",
+      "source_header": "Наличие, %",
+      "json_key": "Наличие, %"
+    },
+    {
+      "column": 16,
+      "letter": "P",
+      "source_header": "Остаток, шт",
+      "json_key": "Остаток, шт"
+    },
+    {
+      "column": 17,
+      "letter": "Q",
+      "source_header": "Безубыточная FBS, ₽",
+      "json_key": "Безубыточная FBS, ₽"
+    },
+    {
+      "column": 18,
+      "letter": "R",
+      "source_header": "Рекоменд. FBS, ₽",
+      "json_key": "Рекоменд. FBS, ₽"
+    },
+    {
+      "column": 19,
+      "letter": "S",
+      "source_header": "Прибыль/ед. FBS, ₽",
+      "json_key": "Прибыль/ед. FBS, ₽"
+    },
+    {
+      "column": 20,
+      "letter": "T",
+      "source_header": "Текущая прибыль FBS/мес, ₽",
+      "json_key": "Текущая прибыль FBS/мес, ₽"
+    },
+    {
+      "column": 21,
+      "letter": "U",
+      "source_header": "Рекоменд. прибыль FBS/мес, ₽",
+      "json_key": "Рекоменд. прибыль FBS/мес, ₽"
+    },
+    {
+      "column": 22,
+      "letter": "V",
+      "source_header": "Безубыточная FBW, ₽",
+      "json_key": "Безубыточная FBW, ₽"
+    },
+    {
+      "column": 23,
+      "letter": "W",
+      "source_header": "Рекоменд. FBW, ₽",
+      "json_key": "Рекоменд. FBW, ₽"
+    },
+    {
+      "column": 24,
+      "letter": "X",
+      "source_header": "Прибыль/ед. FBW, ₽",
+      "json_key": "Прибыль/ед. FBW, ₽"
+    },
+    {
+      "column": 25,
+      "letter": "Y",
+      "source_header": "Текущая прибыль FBW/мес, ₽",
+      "json_key": "Текущая прибыль FBW/мес, ₽"
+    },
+    {
+      "column": 26,
+      "letter": "Z",
+      "source_header": "Рекоменд. прибыль FBW/мес, ₽",
+      "json_key": "Рекоменд. прибыль FBW/мес, ₽"
+    },
+    {
+      "column": 27,
+      "letter": "AA",
+      "source_header": "Рекоменд. цена по режиму, ₽",
+      "json_key": "Рекоменд. цена по режиму, ₽"
+    },
+    {
+      "column": 28,
+      "letter": "AB",
+      "source_header": "Текущая прибыль/мес, ₽",
+      "json_key": "Текущая прибыль/мес, ₽"
+    },
+    {
+      "column": 29,
+      "letter": "AC",
+      "source_header": "Рекоменд. прибыль/мес, ₽",
+      "json_key": "Рекоменд. прибыль/мес, ₽"
+    },
+    {
+      "column": 30,
+      "letter": "AD",
+      "source_header": "Рост прибыли/мес, ₽",
+      "json_key": "Рост прибыли/мес, ₽"
+    },
+    {
+      "column": 31,
+      "letter": "AE",
+      "source_header": "Факт. комиссия, %",
+      "json_key": "Факт. комиссия, %"
+    },
+    {
+      "column": 32,
+      "letter": "AF",
+      "source_header": "Факт. логистика, ₽",
+      "json_key": "Факт. логистика, ₽"
+    },
+    {
+      "column": 33,
+      "letter": "AG",
+      "source_header": "Цена из отчёта, ₽",
+      "json_key": "Цена из отчёта, ₽"
+    },
+    {
+      "column": 34,
+      "letter": "AH",
+      "source_header": "Метод из отчёта",
+      "json_key": "Метод из отчёта"
+    },
+    {
+      "column": 35,
+      "letter": "AI",
+      "source_header": "Надёжность",
+      "json_key": "Надёжность"
+    },
+    {
+      "column": 36,
+      "letter": "AJ",
+      "source_header": "Статус",
+      "json_key": "Статус"
+    },
+    {
+      "column": 37,
+      "letter": "AK",
+      "source_header": null,
+      "json_key": "_col_AK"
+    },
+    {
+      "column": 38,
+      "letter": "AL",
+      "source_header": null,
+      "json_key": "_col_AL"
+    },
+    {
+      "column": 39,
+      "letter": "AM",
+      "source_header": null,
+      "json_key": "_col_AM"
+    },
+    {
+      "column": 40,
+      "letter": "AN",
+      "source_header": null,
+      "json_key": "_col_AN"
+    },
+    {
+      "column": 41,
+      "letter": "AO",
+      "source_header": null,
+      "json_key": "_col_AO"
+    },
+    {
+      "column": 42,
+      "letter": "AP",
+      "source_header": null,
+      "json_key": "_col_AP"
+    },
+    {
+      "column": 43,
+      "letter": "AQ",
+      "source_header": null,
+      "json_key": "_col_AQ"
+    },
+    {
+      "column": 44,
+      "letter": "AR",
+      "source_header": null,
+      "json_key": "_col_AR"
+    },
+    {
+      "column": 45,
+      "letter": "AS",
+      "source_header": null,
+      "json_key": "_col_AS"
+    },
+    {
+      "column": 46,
+      "letter": "AT",
+      "source_header": null,
+      "json_key": "_col_AT"
+    },
+    {
+      "column": 47,
+      "letter": "AU",
+      "source_header": null,
+      "json_key": "_col_AU"
+    },
+    {
+      "column": 48,
+      "letter": "AV",
+      "source_header": null,
+      "json_key": "_col_AV"
+    },
+    {
+      "column": 49,
+      "letter": "AW",
+      "source_header": null,
+      "json_key": "_col_AW"
+    },
+    {
+      "column": 50,
+      "letter": "AX",
+      "source_header": null,
+      "json_key": "_col_AX"
+    },
+    {
+      "column": 51,
+      "letter": "AY",
+      "source_header": "Предмет",
+      "json_key": "Предмет"
+    },
+    {
+      "column": 52,
+      "letter": "AZ",
+      "source_header": "Сырая эластичность",
+      "json_key": "Сырая эластичность"
+    },
+    {
+      "column": 53,
+      "letter": "BA",
+      "source_header": "Средняя эластичность предмета",
+      "json_key": "Средняя эластичность предмета"
+    },
+    {
+      "column": 54,
+      "letter": "BB",
+      "source_header": "Средняя эластичность ассортимента",
+      "json_key": "Средняя эластичность ассортимента"
+    },
+    {
+      "column": 55,
+      "letter": "BC",
+      "source_header": "Применяемая эластичность",
+      "json_key": "Применяемая эластичность"
+    },
+    {
+      "column": 56,
+      "letter": "BD",
+      "source_header": "Источник эластичности",
+      "json_key": "Источник эластичности"
+    },
+    {
+      "column": 57,
+      "letter": "BE",
+      "source_header": "Надёжных артикулов в предмете",
+      "json_key": "Надёжных артикулов в предмете"
+    },
+    {
+      "column": 58,
+      "letter": "BF",
+      "source_header": "Наблюдений регрессии",
+      "json_key": "Наблюдений регрессии"
+    },
+    {
+      "column": 59,
+      "letter": "BG",
+      "source_header": "Вес индивидуальной оценки",
+      "json_key": "Вес индивидуальной оценки"
+    },
+    {
+      "column": 60,
+      "letter": "BH",
+      "source_header": "Макс. историческая цена, ₽",
+      "json_key": "Макс. историческая цена, ₽"
+    },
+    {
+      "column": 61,
+      "letter": "BI",
+      "source_header": "Надёжная индивидуальная оценка",
+      "json_key": "Надёжная индивидуальная оценка"
+    }
+  ],
+  "preamble": [],
+  "row_properties": [
+    {
+      "row": 1,
+      "hidden": false,
+      "height": 36.0,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 2,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 3,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 4,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 5,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 6,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 7,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 8,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 9,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 10,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 11,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 12,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 13,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 14,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 15,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 16,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 17,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 18,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 19,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 20,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 21,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 22,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 23,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 24,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 25,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 26,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 27,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 28,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 29,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 30,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 31,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 32,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 33,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 34,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 35,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 36,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 37,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 38,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 39,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 40,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 41,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 42,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 43,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 44,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 45,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 46,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 47,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 48,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 49,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 50,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 51,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 52,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 53,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 54,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 55,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 56,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 57,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 58,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 59,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 60,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 61,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 62,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 63,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 64,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 65,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 66,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 67,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 68,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 69,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 70,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 71,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 72,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 73,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 74,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 75,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 76,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 77,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 78,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 79,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 80,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 81,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 82,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 83,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 84,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 85,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 86,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 87,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 88,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 89,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 90,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    },
+    {
+      "row": 91,
+      "hidden": false,
+      "height": 12.75,
+      "outline_level": 0,
+      "collapsed": false
+    }
+  ],
+  "nonempty_row_count": 91,
+  "cell_count": 4337,
+  "formula_count": 0,
+  "record_parts": [
+    {
+      "file": "records.part-00001.jsonl",
+      "rows": 90,
+      "first_row": 2,
+      "last_row": 91,
+      "bytes": 180980,
+      "sha256": "151437172058c8866761490667c497e2335686198b40680a196d22493d0ed551"
+    }
+  ],
+  "formula_parts": []
+}

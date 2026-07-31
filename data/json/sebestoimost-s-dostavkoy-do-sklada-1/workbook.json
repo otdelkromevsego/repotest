@@ -1,0 +1,47 @@
+{
+  "format_version": "1.0",
+  "source_file": "Себестоимость_с_доставкой_до_склада(1).xlsx",
+  "source_size_bytes": 9998,
+  "source_sha256": "e803b295445460d40ec0f574becd66fe864ed61cf546d8940a4a437cdf91367d",
+  "source_type": "xlsx",
+  "generated_at_utc": "2026-07-31T06:14:34.414162+00:00",
+  "date_system": "1900",
+  "active_sheet_index_zero_based": 0,
+  "calculation_properties": {
+    "calcId": "0"
+  },
+  "defined_names": [],
+  "document_properties": {
+    "lastModifiedBy": "konst_3d",
+    "modified": "2026-07-30T04:13:21Z",
+    "application": {
+      "Application": "Microsoft Excel",
+      "DocSecurity": "0",
+      "ScaleCrop": "false",
+      "LinksUpToDate": "false",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0300"
+    }
+  },
+  "has_vba": false,
+  "vba_project_sha256": null,
+  "sheets": [
+    {
+      "index": 1,
+      "name": "Лист1",
+      "state": "visible",
+      "dimension": "A1:C92",
+      "header_row": 1,
+      "nonempty_rows": 92,
+      "cells": 276,
+      "formulas": 0,
+      "path": "sheets/01-list1/sheet.meta.json"
+    }
+  ],
+  "limitations": [
+    "Cached formula results are read from the source file and are not recalculated during export.",
+    "Formatting is summarized; drawings, buttons and embedded objects are inventoried but not reconstructed in JSON.",
+    "The original XLSX/XLSM remains the authoritative file, especially for VBA, styles and interactive controls."
+  ]
+}
